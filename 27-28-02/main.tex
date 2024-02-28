@@ -287,7 +287,7 @@ per l'esecuzione condizionale:
 $$ C[\mathrm{if}(E)C] = C[E] + C[C] $$
 $$ C[\mathrm{if}(E) \: C_1 \: \mathrm{else} \: C_2] = C[E] + \max(C[C_1], C[C_2]) $$ 
 
-e per l'esecuzione condizionale ($O(g(n))$ è il numero di iterazioni in funzione della dimensione d'istanza):
+e per l'esecuzione iterativa ($O(g(n))$ è il numero di iterazioni in funzione della dimensione d'istanza):
 $$ C[\mathrm{for}(E_1, E_2, E_3)C] = C[E_1] + C[E_2] + (C[C] + C[E_2] + C[E_3]) \cdot O(g(n)) $$
 $$ C[\mathrm{while}(E)C] = C[E] + (C[C] + C[E]) \cdot O(g(n)) $$
 
