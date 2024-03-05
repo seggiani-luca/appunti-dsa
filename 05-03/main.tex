@@ -1,0 +1,317 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[french,italian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\frenchspacing 
+\title{Appunti Algoritmi e Strutture Dati}
+\author{Luca Seggiani}
+\date{3 Marzo 2024}
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{code-style}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=code-style}
+
+\begin{document}
+\maketitle
+\section{Introduzione ai programmi ricorsivi}
+Iniziamo con l'esempio classico del calcolo del fattoriale. Fissato $0! = 1$, la definizione iterativa è:
+$$ n! = 1 \times 2 \times 3 \times ... \times n \quad n>0 $$
+un'altra possibilite definizione, forse più naturale, è quella ricorsiva:
+$$ n! = n*(n-1)!, \quad n> 0 $$
+Vediamo i due approcci in pseudocodice:
+\begin{lstlisting}[language=C++]
+  int fact(int n) {
+    if(n == 0)
+      return l; 
+  int a = 1;
+  for(int i = 1; i <= n; i++) 
+    a = a*i;
+  return a;
+}
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++]
+int factRic(int n) {
+  if(n == 0)
+    return 1;
+  return n * factRic(n-1);
+}
+\end{lstlisting}
+
+possiamo dare definizioni ricorsive anche di algoritmi più semplici, come ad esempio la moltiplicazione:
+\begin{lstlisting}[language=C++]
+int mult(int x, int y) {
+int(x == 0)
+  return 0;
+  return y + mult(x - 1, y);
+}
+\end{lstlisting}
+
+proviamo a fare l'unrolling ("srotolamento") di questo algoritmo: poniamo una condizione di partenza mult(3,4).
+\begin{lstlisting}[language=C++]
+mult(3,4)
+  4 + mult(2, 4)
+    4 + mult(1, 4)
+      4 + mult(0, 4) -- fine ricorsione
+-> 3 * 4 = 12 
+\end{lstlisting}
+
+prendiamo l'algoritmo per il calcolo di un numero pari:
+\begin{lstlisting}[language=C++]
+int pari(int x) {
+  if(x == 0) return 1;
+  if(x == 1) return 2;
+  return pari(x-2);
+}
+\end{lstlisting}
+oppure l'algoritmo di Euclide nella sua formulazione ricorsiva:
+\begin{lstlisting}[language=C++]
+int MCD(int x, int y) {
+  if(x == y) return x;
+  if(x < y) return MCD(x, y - x);
+  return MCD(x - y, y);
+}
+\end{lstlisting}
+
+chiararamente, tutti gli esempi precedentemente riportati rispettano una serie di regole:
+
+\begin{itemize}
+  \item Regola 1:
+    individuare il caso base in cui la funzione è immediatamente definita
+  \item Regola 2:
+    effettuare le chiamate ricorsive su un sottinsieme strettamente minore dei dati
+  \item Regola 3:
+    assicurarsi che la serie di chiamate ricorsive decade sempre su un caso base (in modo da terminare
+    la ricorsione, che in caso contrario proseguirebbe all'infinito).
+\end{itemize}
+
+vediamo un'esempio di funzioni errate, cioè che non rispettano queste regole:
+\begin{lstlisting}[language=C++]
+int pari_errata(int x) {
+  if(x == 0) return 1;
+  //fa che non sia dispari! regole 1 e 2 violate!
+  return pari_errata(x - 2);
+}
+\end{lstlisting}
+\begin{lstlisting}[language=C++]
+int MCD_errata(int x, int y) {
+  if(x == y) return x;
+  if(x < y) return MCD_errata(x, y-x);
+  return MCD_errata(x, y); 
+  //nessuna restrizione del dominio: regola 3 violata!
+}
+\end{lstlisting}
+
+\section{Programmi ricorsivi su liste}
+Diamo una definizione di lista:
+\begin{itemize}
+  \item Una sequenza vuota è una lista
+  \item un elemento seguito da una lista è una lista
+\end{itemize}
+
+diamo una definizione della struttura Elem*, nodo della mia lista, in pseudocodice C++:
+\begin{lstlisting}[language=C++]
+struct Elem {
+  int inf;
+  Elem* next;
+}
+\end{lstlisting}
+
+vediamo un algoritmo per calcolare la lunghezza di una lista:
+\begin{lstlisting}[language=C++]
+int length(Elem* p) {
+  if(p == NULL) return 0;
+  return 1 + length(p->next);
+}
+\end{lstlisting}
+
+oppure un'algoritmo che restituisce il numero di volte che un nodo x compare in una lista:
+\begin{lstlisting}[language=C++]
+int howMany(Elem* p, int x) {
+  if(p == NULL) return 0;
+  return (p->inf == x) + howMany(p->next, x);
+}
+\end{lstlisting}
+
+altri algoritmi definiti sulle liste possono essere:
+\begin{lstlisting}[language=C++]
+int belongs(Elem* l, int x) {
+  if(l == NULL) return 0;
+  if(l->inf == x) return 1;
+  return belongs(l->next, x);
+}
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++]
+void tailDelete(Elem*& l) { //passaggio per riferimento
+  if(l == NULL) return;
+  if(l-> next == NULL) {
+    delete l;
+    l = NULL;
+  }
+  else tailDelete(l->next);
+}
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++]
+void tailInsert(Elem*& l, int x) {
+  if(l == NULL) {
+    l = new Elem;
+    l->inf = x;
+    l->next = NULL;
+  }
+  else tailInsert(l->next, x);
+}
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++]
+void append_1(Elem*& l1, Elem* l2) {
+  if(l1 == NULL) l1 = l2;
+  else append(l1->next, l2);
+}
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++]
+Elem* append_2(Elem* l1, Elem* l2) {
+  if(l1 == NULL)
+    return l2;
+  l1->next = append(l1->next, l2);
+  return l1;
+}
+\end{lstlisting}
+
+\section{Induzione}
+Riportiamo brevemente la definizione di induzione sui numeri naturali:
+\begin{center}
+Sia una certa proprietà $P$ vera per un naturale $n_0$. Se è vero che $P(n) \Rightarrow P(n + 1)$, allora $P$ 
+è vera per qualsiasi naturale $n > n_0$.
+\end{center}
+
+L'induzione può essere usata ad esempio per dimostrare che la somma dei primi n naturali è:
+$$ \sum_{i = 1}^{n} i = \frac{n(n+1)}{2} $$  
+introduciamo anche l'induzione completa:
+\begin{center}
+Se $P$ vale per ogni naturale $m <= n$, e per ogni $n$ vale per $n+1$, allora $P$ vale per ogni naturale
+\end{center}
+e l'induzione ben fondata:
+\begin{center}
+Sia $S$ un certo insieme ben ordinato. Se la proprietà $P$ vale per i minimali di $S$, e per ogni elemento $E \in S$
+$P$ è vera su $E$ se è vera su ogni elemento minore di $E$, allora $P$ vale su tutto l'insieme $S$.
+
+\footnotesize
+(si noti che il totale abuso di notazione $P(x)$ indica $P$ vera su $x$).
+\normalsize
+
+\end{center}
+
+\section{Complessità dei programmi ricorsivi}
+Facciamo il quadro della situazione, applicando quello che abbiamo visto finora e quello che avevamo già definito
+sugli algoritmi iterativi. Consideriamo il seguente algoritmo per il calcolo di $n!$:
+\begin{lstlisting}[language=C++]
+int fact(int x) {
+  if(x == 0) return l;
+  else return x * fact(x - 1);
+}
+\end{lstlisting}
+l'algoritmo non fa altro che definire la relazione di ricorrenza:
+$$ T(0) = a, \quad T(n) = b + T(n - 1) $$
+andando a svolgere la serie di operazioni definite dall'algoritmo avremo:
+$$ T(0) = a $$
+$$ T(1) = b + a $$
+$$ T(2) = b + b + a = 2b + a $$
+$$ T(3) = b + 2b + a = 3b + a $$
+$$ ... $$
+$$ T(n) = nb + a $$
+l'ultima funzione, $T(n)$, non dipende da alcun passo ricorsivo e fornisce un'interpretazione della complessità
+dell'algoritmo (che è O(n)).
+\par\smallskip
+\textbf{Selection sort} \\
+Applichiamo quanto visto finora ad un programma più complicato: il selection sort, formulato ricorsivamente.
+\begin{lstlisting}[language=C++]
+void r_selectionSort(int* A, int m, int i = 0) {
+  if(i == m - 1) return;
+  int min = i;
+  for(int j = i + 1; j < m; j++)
+    if(A[j] < A[min]) min = j;
+  exchange(A[i], A[min]);
+  r_selectionSort(A, m, i + 1);
+}
+\end{lstlisting}
+
+la relazione di ricorrenza in questo caso sarà:
+$$ T(1) = a, \quad T(n) = bn + T(n - 1) $$ \newpage
+che potremo svolgere come:
+$$ T(1) = a $$
+$$ T(2) = 2b + a $$
+$$ T(3) = 3b + 2b + a $$
+$$...$$
+$$ T(n) = (n + n-1 + n-2 + ... + 2)b + a = (\frac{n(n+1)}{2} - 1) b + a $$
+
+\section{Introduzione al quicksort}
+L'algoritmo quicksort è un'algoritmo di ordinamento particolarmente efficiente, schematicamente così definito:
+\begin{itemize}
+  \item Scelta di un perno
+  \item Divisione dell'array in 2 sottoinsiemi: elementi minori del perno ed elementi maggiori del perno
+  \item Esegui la stessa operazione, ricorsivamente, sui 2 sottoinsiemi finchè non ne incontri uno di 2 elementi.
+\end{itemize}
+
+nel dettaglio, la divisione in due sottoinsiemi dell'array avviene mediante scambi fra elementi utilizzando due cursori
+(siano s e d), inizialmente posti, rispettivamente, ad inf e sup. Da qui in poi:
+\begin{itemize}
+  \item Finché s < d, \\
+    porta avanti s finche A[s] è minore del perno; \\
+    porta indietro d fino a che A[d] è maggiore del perno; \\
+    scambia A[s] e A[d];
+    incrementa S e decrementa D.
+  \item Se inf < d ripeti il quicksort sulla parte da inf a d.
+  \item Se s < sup ripeti il quickosrt sulla parte da s a sup.
+\end{itemize}
+
+Vediamo infine lo pseudocodice:
+\begin{lstlisting}[language=C++]
+void quickSort(int A[], int inf = 0, int sup = n -1) {
+  int perno = A[(inf + sup) / 2]; //prendo l'elemento centrale come perno
+  int s = inf, d = sup;
+  while(s < d) {
+    while(A[s] < perno) s++;
+    while{A[d] > perno} d--;
+    if(s > d) break;
+    exchange(A[s], A[d]);
+    s++;
+    d--;
+  }
+
+  if(inf < d)
+    quickSort(A, inf, d);
+  if(s < sup)
+    quickSort(A, s, sup);
+}
+\end{lstlisting}
+
+\end{document}

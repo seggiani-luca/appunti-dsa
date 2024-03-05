@@ -446,4 +446,28 @@ int binarySearch(int vett, int min, int max, int x) {
 }
 \end{lstlisting}
 
+Si nota inoltre l'implementazione (probabilmente più efficiente) iterativa:
+\begin{lstlisting}[language=C++]
+int binSearch_it(int A[], int x, int l, int r) {
+  int m = (1 + r) / 2;
+  while(A[m] != x) {
+    if(x < A[m])
+      r = m - 1;
+    else // x > A[m]
+      l = m + 1;
+    if(l > r)
+      return -1;
+    m = (1 + r) / 2;
+  }
+  return m;
+}
+\end{lstlisting}
+
+analizzando formalmente la complessità, otteniamo che il numero di passi totale è:
+$$ n_{passi} = \frac{n}{2^i}, \quad O(log(n)) $$
+
+merita attenzione il fatto che l'ordinamento del vettore prima della ricerca può portare a complessità
+complessive (bel pasticcio) addirittura di $O(n^2)$, e si dovrebbe quindi valutare con attenzione le casistiche
+di utilizzo.
+
 \end{document}
