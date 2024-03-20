@@ -20,4 +20,4 @@
 *.vdi
 *.vbox
 *.vbox-prev
-*.log
+*.log.*
