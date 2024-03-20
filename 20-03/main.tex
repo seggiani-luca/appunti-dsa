@@ -1,0 +1,50 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[french,italian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\frenchspacing 
+\title{Appunti Algoritmi e Strutture Dati}
+\author{Luca Seggiani}
+\date{20 Marzo 2024}
+
+\usepackage{forest}
+
+\begin{document}
+\maketitle
+\section{Alberi binari}
+Un'albero binario è definito come segue:
+\begin{itemize}
+  \item L'albero vuoto è un'albero binario.
+  \item Un nodo $p$ più due alberi binari $B_s$ e $B_d$ formano un'albero binario.
+\end{itemize}
+
+\begin{center}
+\begin{forest}
+  [$p$ [$B_s$] [$B_d$]]
+\end{forest}
+\end{center}
+
+a loro volta $B_s$ e $B_d$ saranno alberi binari, quindi:
+
+\begin{center}
+\begin{forest}
+  [$p$ [$B_s$ [$B'_s$][$B'_d$]] [$B_d$[$B'_s$][$B''_d$]]]
+\end{forest}
+\\...
+\end{center}
+
+a questo punto diremo che:
+\begin{itemize}
+  \item $p$ è la \textbf{radice} dell'albero;
+  \item $B_s$ è il \textbf{sottoalbero sinistro} di $p$;
+  \item $B_d$ è il \textbf{sottoalbero destro} di $p$;
+  \item gli alberi sono etichettati.
+\end{itemize}
+
+diciamo inoltre che ogni albero senza sottoalberi (o figli) è una foglia. Un nodo sarà padre rispetto al
+loro figlio, i nodi precedenti saranno glli antecedenti e quelli successivi i discendenti.
+Il livello di un nodo è il numero dei suoi antecedenti, mentre il livello di un'albero è il livello massimo
+dei suoi nodi.
+
+\end{document}

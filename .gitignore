@@ -12,3 +12,12 @@
 *.fls
 *.log
 *.synctex.gz
+
+#ignora archivi senno fai danni
+*.zip
+
+#ignora file relativi alla vm
+*.vdi
+*.vbox
+*.vbox-prev
+*.log
