@@ -8,7 +8,10 @@ verbose = input('Verbose? (y/n): ').lower().strip() == 'y'
 timeTotal = 0
 
 for i in range(instances):
-    command = './hybrid_sort {} {} {}'.format(size, treshold, i)
+    verbose_flag = "n"
+    if(verbose):
+        verbose_flag = "y"
+    command = './hybrid_sort {} {} {}'.format(size, treshold, i, verbose_flag)
     process = subprocess.Popen(f'bash -c "time {command}"', stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
     output, error = process.communicate()
     

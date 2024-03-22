@@ -4,6 +4,7 @@ using namespace std;
 
 int treshold;
 int seed;
+bool verbose;
 
 void insertion_sort(int vett[], int beg, int end) {
   int current = 0, p = 0;
@@ -78,16 +79,26 @@ int main(int argc, char** argv) {
   if(argc > 3)
     seed = atoi(argv[3]);
   else seed = time(NULL);
+
+  if(argc > 4) {
+    verbose = (argv[4][0] == 'y');
+  }
   
   int* vett = new int[size];
   srand(seed);
   for(int i = 0; i < size; i++) {
     vett[i] = rand() % 99;
   }
-
-  print_vett(vett, size);
+ 
+  if(verbose) {
+    cout << "BEFORE SORT:" << endl;
+    print_vett(vett, size);
+  } 
   mergeSort(vett, 0, size);
-  print_vett(vett, size);
+  if(verbose) {
+    cout << "AFTER SORT:" << endl;
+    print_vett(vett, size);
+  }
 
   delete[] vett;
 }
