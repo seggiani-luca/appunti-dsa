@@ -16,6 +16,9 @@
 \definecolor{codepurple}{rgb}{0.58,0,0.82}
 \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
 
+\usepackage{forest}
+\usepackage{mathtools}
+
 \lstdefinestyle{code-style}{
     backgroundcolor=\color{backcolour},   
     commentstyle=\color{codegreen},
@@ -56,6 +59,19 @@ struct Node {
   Node* dx;
 };
 \end{lstlisting}
+
+\begin{center}
+\begin{forest}
+  [A \rlap{{} \quad (radice)}
+    [B
+      [D][E]
+    ]
+    [C
+    [F] [G\rlap{{} \quad (foglie)}]]
+    ]
+  ]
+\end{forest}
+\end{center}
 
 Gli alberi binari si prestano all'implementazione, su di essi, di algoritmi ricorsivi. Avremo infatti:
 \begin{itemize}
@@ -229,8 +245,31 @@ struct Node {
   Node* sibling;
 };
 \end{lstlisting}
-Molte delle funzioni
-definite su alberi binari valgono (con qualche modifiche) sugli alberi generici, ad esempio la visita anticipata:
+che rappresenterà un'albero del tipo:
+\begin{center}
+\begin{forest}
+  [A
+    [B
+      [D][E][F]
+    ]
+    [
+    C
+      [G]
+    ]
+  ]
+\end{forest}
+\end{center}
+Attraverso il suo trasformato:
+\begin{center}
+\begin{forest}
+  [A
+    [B
+    [D [] [E [] [F]]]
+    ][C [G]]
+  ]
+\end{forest}
+\end{center}
+Molte delle funzioni definite su alberi binari valgono (con qualche modifiche) sugli alberi generici, ad esempio la visita anticipata:
 \begin{lstlisting}[language=C++]
 void preOrder(albero) {
   print(radice);
@@ -264,11 +303,23 @@ int leaves(Node* tree) {
 \textbf{Inserzione di un nodo su un albero generico} \\
 Riportiamo una funzione che inserisca un nodo come ultimo fratello di un certo sibling:
 \begin{lstlisting}[language=C++]
-A CASA!
+void addSibling(int sibling, Node* &list) {
+  if(list == NULL) {
+    list = new Node;
+    list->inf = sibling;
+    list->child = list->sibling = NULL;
+  } else addChild(sibling, list->sibling)
+}
 \end{lstlisting}
-O un altra che inserisca un nodo come ultimo figlio di un certo parent:
+E infine altra che inserisca un nodo come ultimo figlio di un certo parent:
 \begin{lstlisting}[language=C++]
-A CASA!
+int insert(int child, int father, Node* &tree) {
+  Node* a = findNode(father, tree);
+  if(a == NULL) return 0;
+  addChild(child, a->child);
+  return 1;
+}
 \end{lstlisting}
+notando che la funzione findNode(int, Node*) è analoga a quella definita sugli alberi binari.
 \end{document}
 
