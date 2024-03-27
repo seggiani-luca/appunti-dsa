@@ -1,0 +1,204 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[french,italian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\frenchspacing 
+\title{Appunti Algoritmi e Strutture Dati}
+\author{Luca Seggiani}
+\date{27 Marzo 2024}
+
+\usepackage{forest}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{code-style}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=code-style}
+
+\begin{document}
+\maketitle
+\section{Alberi Binari di Ricerca}
+Un'albero binario di ricerca è un albero binario tale che per ogni nodo $p$, i nodi del sottoalbero sinistro
+di $p$ hanno etichetta minore dell'etichetta di $p$. Di contro, i nodi del sottoalbero destro avranno etichettta
+maggiore dell'etichetta di $p$. Si stabilisce un ordine tra i nodi, più forte del semplice meccanismo
+antecedente-precedente, in base all'ordinamento tra le etichette. Ad esempio:
+
+\begin{center}
+\begin{forest}
+  [5
+  [2
+  [1][3]
+  ]
+  [6
+  [4][7]
+  ]
+  ]
+\end{forest}
+\end{center}
+Notiamo che non possono esistere nodi doppioni, e che l'ordinamento risulta infine da sinistra verso destra, ergo una stampa
+simmetrica dell'albero binario di ricerca fornisce sostanzialmente una lista dei nodi in ordine crescente. \\
+Possiamo definire sugli alberi di ricerca alcune operazioni, fra cui la ricerca di un nodo (ottimizzato!), l'inserimento ordinato di un nodo,
+e la cancellazione di un nodo.
+\par\smallskip
+\textbf{Ricerca su alberi di ricerca} \\
+Si spera che, se l'hanno chiamati alberi di ricerca, almeno quella ci si possa fà per benino. Effettivamente la ricerca
+su alberi di ricerca si può eseguire sempre come ricerca binaria, essendo gli stessi sempre ordinati per definizione.
+Possiamo quindi implementare, in pseudocodice, la funzione ricorsiva:
+\begin{lstlisting}[language=C++]
+Node* findNode(int n, Node* tree) {
+  if(tree == NULL) return 0;
+  if(n == tree->label) return tree;
+  if(n < tree->label) return findNode(n, tree->left);
+  return findNode(n, tree->right);
+}
+\end{lstlisting}
+Questo ci permetterà di dividere per 2 la dimensione di istanza ad ogni passaggio, ottenendo
+una complessità di $O(\log{n})$. Chiaramente, questo vale solo nel caso migliore: nel caso medio, il valore verrà
+fortemente influenzato dal bilanciamento (o mancanza di tale) del nostro albero. E' fondamentale avere alberi bilanciati
+per ottimizzare le operazioni di ricerca e inserzione. Nel caso l'albero sia completamente sbilanciato, si dice che è
+degenere, e le operazioni di ricerca costeranno su di esso $O(n)$.
+\par\smallskip
+\textbf{Inserzione in alberi di ricerca} \\
+Inserire nodi in alberi di ricerca significa fare l'inserimento ordinato, per mantenere appunto l'ordine dell'albero:
+\begin{lstlisting}[language=C++]
+void insertNode(int n, Node *& tree) {
+  if(tree == NULL) {
+    tree = new Node;
+    tree->label = n;
+    tree->left = tree->right = NULL;
+  }
+  if(n < tree->label) insertNode(n, tree->left);
+  if(n > tree->label) insertNode(n, tree->right);
+}
+\end{lstlisting}
+L'algoritmo aggiunge, se l'albero considerato è vuoto, l'elemento considerato. Sennò confronta l'elemento
+con i sottoalberi sinistri e destro dell'albero, e chiamandosi ricorsivamente sul ramo che rispetta l'ordinamento.
+La complessità è sempre $O(\log{n})$, che può arrivare a $O(n)$ se l'albero è degenere.
+\par\smallskip
+\textbf{Cancellazione di alberi di ricerca} \\
+Poniamoci adesso il problema di cercare e successivamente cancellare un determinato nodo. Occorrerà innanzitutto
+trovare il nodo desiderato attraverso i meccanismi sopra definiti, e valutare poi le due possibili situazioni
+che potremmo incontrare:
+\begin{itemize}
+  \item Se $p$ (l'albero trovato) ha un sottoalbero vuoto, il padre di $p$ viene connesso all'unico sottoalbero non vuoto
+    di $p$.
+  \item Se $p$ ha entrambi i sottoalberi non vuoti si cerca il nodo con etichetta minore nel sottoalbero
+    destro di $p$, si cancella e si mette la sua etichetta come etichetta di $p$.
+\end{itemize}
+\newpage
+Visualizziamo i diversi casi:
+\begin{center}
+\begin{forest}
+  [6
+  [2
+  [1][3 [,phantom][5]]
+  ]
+  [9
+  [7[,phantom][8]][,phantom]]
+  ]
+\end{forest}
+\end{center}
+rimuovere il 9 significa:
+\begin{center}
+\begin{forest}
+[6
+  [2
+  [1][3 [,phantom][5]]
+  ]
+  [7[,phantom][8]][,phantom]
+  ]
+\end{forest}
+\end{center}
+e rimuovere il 2 significa:
+\begin{center}
+\begin{forest}
+  [6
+  [3
+  [1][5]
+  ]
+  [9
+  [7[,phantom][8]][,phantom]]
+  ]
+\end{forest}
+\end{center}
+Ciò si può implementare con:
+\begin{lstlisting}[language=C++]
+//helper (trova minimo)
+void deleteMin(Node* &tree, int &m) {
+  if(tree->left) deleteMin(tree->left, m);
+  else {
+    m = tree->label;
+    Node* a = tree;
+    tree = tree->right;
+    delete a;
+  }
+}
+
+//funzione
+void deleteNode(int n, Node* &tree) {
+  if(tree) {
+    if(n < tree->label) {
+      deleteNode(n, tree->left);
+      return;
+    }
+    else if(n > tree->label) {
+      deleteNode(n, tree->right);
+      return;
+    }
+    else if(tree->left == NULL) {
+      Node* a = tree;
+      tree = tree->right;
+      delete a;
+      return;
+    }
+    else if(tree->right == NULL) {
+      Node* a = tree;
+      tree = tree->left;
+      delete a;
+      return;
+    }
+    else deleteMin(tree->right, tree->label);
+  }
+}
+\end{lstlisting}
+L'helper deleteMin() trova il minimo, lo elimina e ne inserisce l'etichetta nell'integer m. Questo torna utile
+nel secondo caso, quando abbiamo intenzione di eliminare il nodo minimo e sostituirne l'etichetta al nodo eliminato.
+La funzione a questo punto si occupa soltanto di scorrere l'albero in maniera ricorsiva, applicando l'algoritmo
+giusto a seconda del caso incontrato. Nello specifico, finchè non trova il nodo desiderato prosegue di ricerca
+binaria. Quando raggiunge a una foglia che corrisponde, sceglie in base al numero di sottoalberi il percorso da prendere:
+nel caso esista solamente un sottoalbero, si elimina dopo aver sostituito il suo sottoalbero esistente a se stesso. Nel 
+caso entrambi i sottoalberi esistano, chiama deleteMin() sul suo sottoalbero destro, passando la sua stessa etichetta per
+riferimento. Notiamo che il caso dove l'etichetta cercata non esiste è gestito dal controllo su tree in capo a entrambe le funzioni
+(albero vuoto $\rightarrow$ caso base).
+\par\smallskip
+\textbf{Costo di riempimento di un'albero binario di ricerca} \\
+Vediamo quanto costa in funzione di $n$ elementi da aggiungere, riempire un albero binario di ricerca. Potremmo
+bovinamente dire $O(n\log{n})$, visto che svolgo effettivamente $n$ operazioni di costo $O(\log{n})$. Il problema
+sta nel fatto che il costo di $O(\log{n})$ vale nel caso ottimale, non nel caso generale: fosse considerato il caso peggiore,
+avremmo $n$ volte qualcosa che ha complessita $O(n)$, che però verrebbe ogni volta chiamato su dimensioni di istanza
+$n-1$, da cui $O(n\frac{n-1}{2})$, ovvero $O(n^2)$. Dobbiamo allora ricordare l'albero di ricerca binaria è una struttura
+di dati estremamente efficiente, ma che la sua creazione ha il costo non indifferente di $O(n^2)$.
+\end{document}
