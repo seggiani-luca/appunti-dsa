@@ -159,10 +159,9 @@ void heapSort(int* vett, int n) { //n = dimensione dell'array
   }
 }
 \end{lstlisting}
- Vediamo quindi la funzione buildHeap() usata per costruire l'heap. Inizieremo
-dall'eseguire la funzione down() sulla prima metà degli elementi dell'array (gli elementi della seconda metà saranno
-tutti foglie, verificare dal disegno). Si esegue poi down() sull'altra metà, partendo dall'elemento centrale e tornando indietro
-fino al primo.
+Vediamo quindi la funzione buildHeap() usata per costruire l'heap. Vorremo semplicemente
+eseguire la funzione down() sulla prima metà degli elementi dell'array, eseguendo quindi down()
+partendo dalla metà, e scorrendo fino al primo elemento. 
 \begin{lstlisting}[language=C++]
 void buildHeap(int* vett, int n) {
   for(int i = (n / 2) - 1; i >= 0; i--) {
@@ -170,10 +169,8 @@ void buildHeap(int* vett, int n) {
   }  
 }
 \end{lstlisting}
-Questo richiederà una rielaborazione sia della down che della extract, che riportiamo in seguito:
-\begin{lstlisting}[language=C++]
-//RIPORTA VARIAZIONI (E MAGARI COMPRENDILE!)
-\end{lstlisting}
+Questo richiederà una rielaborazione sia della down che della extract, in modo che possano lavorare su vettori arbitrari. (L'implementazione fornita insieme agli appunti
+si basa di per sé su un vettore STL, che può semplicemente fungere da contenitore per il vettore che vorremmo ordinare...)
 La complessità dell'inserimento a questo punto sarà di $O(n)$, mentre la complessità delle estrazioni ripetute darà una complessità finale
 di $O(n\log{n})$, che non è affatto male.\\
 \end{document}
