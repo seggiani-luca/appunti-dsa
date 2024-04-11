@@ -1,0 +1,151 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[french,italian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\frenchspacing 
+\title{Appunti Algoritmi e Strutture Dati}
+\author{Luca Seggiani}
+\date{9 Aprile 2024}
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{code-style}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=code-style}
+
+\begin{document}
+\maketitle
+\section{Alberi binari di ricerca, implementazione}
+Vediamo l'implementazione effettiva di un albero binario di ricerca, effettuata in C++ attraverso il meccanismo delle classi:
+\begin{lstlisting}[language=C++]
+struct Node {
+  int value;
+  Node* left;
+  Node* right;
+
+  Node(int val):
+    value(val), left(NULL), right(NULL) {}
+};
+
+class BinTree{
+  Node root_;
+
+public:
+  BinTree() { root_ = NULL; }
+  Node* getRoot() { return root_; }
+};
+\end{lstlisting}
+
+La insert:
+\begin{lstlisting}[language=C++]
+void insert(int val) {
+  Node* node = new Node(val);
+  Node* pre = NULL;
+  Node* post = root_;
+
+  while(post != NULL) {
+    pre = post;
+    if(val <= post->value)
+      post = post->left;
+    else
+      post = post->right;
+  }
+  
+  if(pre == nullptr) {
+    root_ = node;
+    return;
+  }
+
+  if(val <= pre->val)
+    pre->right = val;
+  else
+    pre->left = val;
+
+}
+\end{lstlisting}
+
+Funzioni per la ricerca di minimi e massimi:
+\begin{lstlisting}[language=C++]
+Node* min() {
+  Node* temp = root_;
+  while(temp->left != NULL)
+    temp = temp->left;
+  return temp;
+}
+
+Node* max() {
+  Node* temp = root_;
+  while(temp->right != NULL)
+    temp = temp->right;
+  return temp;
+}
+\end{lstlisting}
+
+Funzioni per la ricerca di la profondità di minimi e massimi:
+\begin{lstlisting}[language=C++]
+int height(Node* tree) {
+  int hLeft;
+  int hRight;
+  if(tree == NULL)
+    return 0;
+  hLeft = height(tree->left);
+  hRight = height(tree->right);
+  
+  return(1 + max(hLeft, hRight));
+}
+\end{lstlisting}
+Funzioni di ricerca di nodi:
+\begin{lstlisting}[language=C++]
+Node* search(int val) {
+  Node* temp = root_;
+  while(temp != nullptr) {
+    if(val == temp->value)
+      return temp;
+    if(val <= temp->value)
+      search(temp->left);
+    else
+      search(temp->right);
+  }
+  return nullptr;
+}
+\end{lstlisting}
+\section{Stringhe STL}
+La libreria STL definisce nell'header <string> il tipo di dato stringa. Il tipo di dato stringa estende in qualche
+modo la stringa del comune C, ovvero un'array di tipi carattere terminata da un carattere specifico. Attraverso l'incapsulamento
+di questo tipo di dati, si possono avere diverse comodità, come ad esempio il conto della lunghezza della lunghezza della stringa
+senza necessità di scorrimenti, o funzioni membro come:
+\begin{lstlisting}[language=C++]
+string stringa = "Il contrario di comunismo";
+string stringa_2 = " e' egoismo";
+string stringa_completa = stringa + stringa_2; 
+  //stringa_completa = "Il contrario di comunismo e' egoismo"
+stringa.find("comunismo"); 
+  //puntatore alla prima occorrenza di "comunismo", senno' :npos
+stringa_2.compare("egoismo");
+...
+\end{lstlisting}
+\end{document}
