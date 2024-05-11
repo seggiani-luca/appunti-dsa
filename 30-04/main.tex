@@ -1,0 +1,208 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[french,italian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\frenchspacing 
+\title{Appunti Algoritmi e Strutture Dati}
+\author{Luca Seggiani}
+\date{30 Aprile 2024}
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{code-style}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=code-style}
+
+\begin{document}
+\maketitle
+\section{Dizionari}
+Un dizionario è una struttura che si discosta dal concetto (adottato finora) di indirizzamento diretto. Conviene usare
+dizionari quando la dimensione del dominio degli input è di molto maggiore alla dimensione di archiviazinoe
+che abbiamo a disposizione. Il dizionario può essere implementato attraverso il meccanismo appena visto dell'hashing, e quindi della scrittura in memoria
+di coppie chiave-valore: questa struttura dati prende nello specifico il nome di \textit{hash table} (tabella hash).
+\par\smallskip
+\textbf{Hash table semplice} \\
+Sviluppiamo una tabella hash che gestisce interi maggiori di 0, usa chiavi coincidenti coi valori, e la funzione modulo come funzione hash.
+Per convenzione, prendiamo 0 come valore vuoto. Una possibile classe che implementa la tabella è:
+\begin{lstlisting}[language=C++]
+class HashTable {
+  int* _table;
+  int _size;
+
+public:
+  HashTable(int size);
+  bool insert(int key);
+  void print();
+  int hash(int key);
+};
+\end{lstlisting}
+dove ci siamo dotati di un'array (in memoria dinamica) di interi, un intero rappresentante la dimensione dell'array, e
+le funzioni membro HashTable(), costruttore, insert(), che inserisce coppie chiave-valore (qua coincidenti) nella hash table, print() che stampa i contenuti
+della tabella, e hash, che è la funzione hashing stessa.
+\begin{itemize}
+  \item \textbf{Costruttore} \\
+Il costruttore avrà la forma:
+\begin{lstlisting}[language=C++]
+HashTable::HashTable(int size) {
+  _table = new int[size];
+  _size = size;
+  memset(_table, 0, suze * sizeof(int));
+}
+\end{lstlisting}
+Notiamo l'uso della funzione di libreria memset(address, value, size), che serve ad inizializzare più velocemente la nostra array.
+La memset prende come argomenti un indirizzo, un valore, e una dimensione che determina il blocco di memoria contigua a partire dall'indirizzo
+da riempire col valore fornito (qui 0, che segnala l'elemento vuoto).
+\item \textbf{Hash} \\
+  La funzione di hashing, come già detto, avrà la forma:
+  \begin{lstlisting}[language=C++]
+  int hash(int key) {
+    return key % _size;
+  }
+  \end{lstlisting}
+\item \textbf{Insert} \\
+La funzione dovrà, in ordine:
+\begin{itemize}
+  \item Trovare l'indice possibile tramite la funzione hash;
+  \item Controllare se la posizione è già occupata, e adoperare in tal caso misure preventive;
+  \item In caso contrario, inserire l'elemente assegnando la chiave all'indirizzo trovato.
+\end{itemize}
+Una possibile implementazione di questo algoritmo sarà:
+\begin{lstlisting}[language=C++]
+bool HashTable::insert(int key) {
+  int index = hash(key);
+  if(_table[index] != 0) 
+    return false;
+  _table[index] = key;
+  return true;
+}
+\end{lstlisting}
+Si palesa il problema di gestire eventuali collisioni. L'approccio appena utilizzato (quello di evitare completamente
+l'inserimento nel caso non sia possibile) non è infatti ottimale. Un'approccio possibile è quello di trasformare ogni elemento
+del vettore in una lista, dove gli oggetti in collisione verrano memorizzati successivamente uno dopo l'altro. Questo significherà
+trasformare il nostro vettore di interi in un vettore di puntatori ad intero, che farà da radice per una lista (volendo anche bidirezionale, agevola
+le eliminazione) di interi. Chiamiamo questa lista \textit{lista di trabocco}. Mettiamo il tutto in uno struct:
+\begin{lstlisting}[language=C++]
+struct Elem {
+  int key;
+  Elem* next;
+  Elem* prev;
+  Elem() : next(NULL), prev(NULL) {}
+};
+\end{lstlisting}
+e a questo punto ridefiniamo la classe HashTable:
+\begin{lstlisting}[language=C++]
+class HashTable {
+  Elem** _table;
+  int _size;
+
+public:
+  HashTable(int size);
+  bool insert(int key);
+  void print();
+  void printOccupancy();
+  int hash(int key);
+  bool find(int key);
+};
+\end{lstlisting}
+dove abbiamo aggiunto le funzioni printOccupancy(), che restituisce l'occupazione di ogni chiave del vettore;
+e la find, che va a cercare una chiave (eseguendo lo scorrimento linare della lista corrispondente alla sua chiave).
+Questo ci permette di riscrivere la insert come:
+\begin{lstlisting}[language=C++]
+bool HashTable::insert(int key) {
+  int index = hash(key);
+  Elem* n = new Elem();
+  n->key = key;
+  n->next = _table[index];
+  if(n->next != NULL)
+    n->next->prev = n;
+  _table[index] = n;
+  return true;
+}
+\end{lstlisting}
+e di scrivere la find come:
+\begin{lstlisting}[language=C++]
+bool HashTable::find(int key) {
+  int index = hash(key);
+  Elem* pun = _table[index];
+  while(pun != nullptr) {
+    if(pun->key == key)
+      return true;
+    pun = pun->next;
+  }
+  return false;
+}
+\end{lstlisting}
+Possiamo adesso fare una considerazione: potrebbe essere utile usare, invece di una lista, una struttura dati
+più avanzata che permetta di velocizzare gli scorrimenti dei singoli elementi del vettore, oppure semplicemente di mantenere l'ordinamento
+della lista in fase di inserimento. Notiamo però che, come sempre,
+un operazione di questo tipo richiede un tradeoff: possiamo velocizzare le ricerche, ma a costo di rallentare gli inserimenti.
+\end{itemize}
+\par\smallskip
+\textbf{Hashing di stringhe} \\
+Vediamo come realizzare questo tipo di struttura dati sulle stringhe. Per la funzione di hashing, potremmo pensare di usare la prima lettera:
+\begin{lstlisting}[language=C++]
+int hash(string key) {
+  return key[0] % _size;
+}
+\end{lstlisting}
+Notiamo però che quest'approccio è assolutamente terribile per l'occupazione del vettore: molto probabilmente andremo a riempire esageratamente
+solo alcuni indici (quante frasi iniziano con la lettera x?). Un'approccio migliore potrebbe essere quello di sommare i valori di ogni
+carattere:
+\begin{lstlisting}[language=C++]
+int hash(string key) {
+  int index = 0;
+  for(int i = 0; i < key.length(); i++) {
+    index += key[i];
+  }
+  return index % _size;
+}
+\end{lstlisting}
+Che ci assicurebbe di avere una distribuzione più uniforme di chiavi.
+\par\smallskip
+\textbf{Considerazioni sulla funzione di hash} \\
+Dalla funzione di hash si possono richiedere diverse caratteristiche per diverse applicazioni. In generale, possiamo parlare di:
+\begin{itemize}
+  \item \textbf{Uniformità}, ovvero la copertura (o non) che ha la funzione di hashing per tutti i valori del dominio (nell'esempio precedente
+    abbiamo visto come non è conveniente concentrare più chiavi sugli stessi indici).
+  \item \textbf{Non reversibiilità}, ovvero la difficoltà di ricondurre un indirizzo alla sua chiave. Questo è particolarmente importante
+    nell'ambito della sicurezza informatica.
+\end{itemize}
+In generale, si può anche dire che la maggior parte delle funzioni di hash lavorano sulla rappresentazione binaria delle chiavi.
+\par\smallskip
+\textbf{La versione STL} \\
+La STL ci fornisce un'implementazione della funzione di hash: la cosiddetta stl::map:
+\begin{lstlisting}[language=C++]
+stl::map <key_T, obj_T > table;
+\end{lstlisting}
+crea una tabella di oggetti di tipo obj\_T con chiavi di tipo key\_T. Potremo a questo punto fare le operazioni:
+\begin{lstlisting}[language=C++]
+//inserimento
+table['uno'] = "Valore uno";
+//ricerca
+table.find('uno');
+\end{lstlisting}
+\end{document}

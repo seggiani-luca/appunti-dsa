@@ -1,0 +1,65 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[french,italian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\frenchspacing 
+\title{Appunti Algoritmi e Strutture Dati}
+\author{Luca Seggiani}
+\date{8 Maggio 2024}
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{code-style}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=code-style}
+
+\begin{document}
+\maketitle
+Valutiamo la complessità dell'algoritmo di Dijkstra implementato con un min-heap. Abbiamo che il ciclo
+while effettua $n$ iterazioni, e che ogni iterazione costa: $$C=C[L_7] + \frac{m}{n}C[L_{15}]$$ ovvero $O(\log{n} + \frac{m}{n}\log{n})$.
+La complessità finale sarà quindi: $$O(n(\log{n} + \frac{m}{n}\log{n})) = O(n\log{n} + m\log{n})$$
+complessità lineare logaritmica (linearitmica).
+\par\smallskip
+\textbf{Applicazioni di algoritmi sui grafi} \\
+Vediamo alcuni esempi di applicazione dei grafi e degli algoritmi su di essi definiti.
+\begin{itemize}
+  \item \textbf{Graph coloring} \\
+    Si ha un problema di etichettamento dei grafi: dato un numero $K$ di colori da associare ad ogni nodo del grafo, si trovi una colorazione che assicura
+    che nessun nodo abbia lo stesso colore di un suo adiacente. Un'esempio di problemi di questo tipo può essere semplicemente il gioco del Sudoku.
+  \item \textbf{Algoritmo PageRank di Google} \\
+    L'algoritmo PageRank di Google serve al motore di ricerca per trovare le pagine web di interesse per una interrogazione. Cerca di stimare il comportamento
+    di un "\textit{random surfer}" che naviga il web basandosi sulle connessioni (\textit{link}) fra le pagine. Riesce a fare questo considerando la rete
+    come un grafo (\textit{webgraph}) in cui le pagine sono i nodi, e i link gli archi. Su ogni nodo (quindi per ogni pagina web) $P$ viene calcolato un "rango", che ne rappresenta
+    la rilevanza, $R(P)$. $R(P)$ dipende da quanti link arrivano a e provengono da $P$:
+    $$ R(P) = \sum_{Q\rightarrow P} \frac{R(Q)}{|Q|} $$
+    dove $|Q|$ è il numero di link uscenti da $Q$, e $Q\rightarrow P$ i link da $Q$ a $P$. Questo calcolo viene fatto ottenendo iterativamente il rango dei nodi utilizzando
+    la matrice di adiacenza e partendo da un valore del rango uguale per tutti i nodi.
+  \item \textbf{Graph database} \\
+    I database basati sui grafi forniscono un'alternativa al modello relazionale, sopratutto nei casi in cui le tabelle siano troppe e troppo grandi. Secondo
+    questo approccio, i vertici rappresentano tabelle e gli archi relazioni.
+\end{itemize}
+\end{document}
