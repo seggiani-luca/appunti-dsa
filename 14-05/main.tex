@@ -260,10 +260,7 @@ m_max<int>(a, b); m_max<double>(a, b);
 \end{lstlisting}
 L'esecuzione della funzione template viene eseguita su qualsiasi tipo gli venga fornito: la definizione dell'implementazione specifica ad ogni tipo
 viene realizzata dal compilatore a tempo di compilazione. Il meccanismo dei template potrebbe sembrare simile a quello delle macro: le differenze sono
-la maggiore versatilità e il fatto che i template fortemplate<class T>
-T m_max(T a, T b) {
-  return (a > b) ? a : b;
-}niscono il type-checking.
+la maggiore versatilità e il fatto che i template forniscono il type-checking.
 \par\smallskip
 \textbf{Argomenti impliciti di funzioni modello} \\
 Possiamo, senza specificare il tipo su cui la funzione deve lavorare, lasciare al compilatore l'onere di decidere attraverso i tipi degli argomenti forniti. In questo
