@@ -1,0 +1,979 @@
+Riduci
+WLE Austria Logo (no text).svg
+Wiki Loves Earth Italia è il concorso fotografico dedicato alle aree naturali protette italiane.
+Dal 15 giugno fai una foto, promuovi il territorio, aiuta Wikipedia e vinci!
+[nascondi]
+Libera la cultura. Dona il tuo 5×1000 a Wikimedia Italia. Scrivi 94039910156.
+Questa è una voce in vetrina. Clicca qui per maggiori informazioni
+Nautiloidea
+Da Wikipedia, l'enciclopedia libera.
+Come leggere il tassobox
+Nautiloidea
+Un esemplare di N. belauensis, specie attuale.
+Classificazione scientifica
+Dominio	Eukaryota
+Regno	Animalia
+Sottoregno	Eumetazoa
+Ramo	Bilateria
+Superphylum	Protostomia
+(clade)	Lophotrochozoa
+Phylum	Mollusca
+Subphylum	Conchifera
+Classe	Cephalopoda
+Sottoclasse	Nautiloidea
+Agassiz, 1847
+Ordini
+
+    †Plectronocerida
+    †Ellesmerocerida
+    †Intejocerida
+    †Ascocerida
+    †Endocerida
+    †Tarphycerida
+    †Barrandeocerida
+    †Discosorida
+    †Oncocerida
+    †Actinocerida
+    †Orthocerida
+    Nautilida
+
+I nautiloidi (Nautiloidea Agassiz, 1847) sono una sottoclasse di molluschi cefalopodi di ambiente marino la cui documentazione fossile risale fino al Cambriano superiore.[1] Hanno una distribuzione di profondità piuttosto ampia (fino a circa 900 m)[2] e sono caratterizzati da una conchiglia calcarea aragonitica suddivisa internamente da setti in camere, collegate tra loro da una struttura organica in parte mineralizzata definita "sifuncolo", che ha la funzione di regolare per osmosi la pressione dei fluidi interni (gas e liquido camerale). Questa particolare struttura del guscio costituisce un adattamento alle condizioni di pressione variabile derivanti dall'ampio intervallo di distribuzione batimetrica che contraddistingue il gruppo.[3][4] Dal punto di vista filogenetico, si tratta dei progenitori di tutti i cefalopodi attuali (polpi, seppie, calamari) e delle ammoniti (estinte dalla fine dell'Era mesozoica): questo gruppo al presente costituisce un elemento faunistico relativamente poco sviluppato e con un areale ridotto (regione indo-pacifica); in passato, soprattutto nel Paleozoico, ha rappresentato uno dei gruppi più diversificati tassonomicamente e di maggior successo; le forme estinte appartenenti a questo gruppo sono oggetto di numerosi studi paleontologici per la loro utilità in campo biostratigrafico e paleoambientale. Per la struttura particolare e armoniosa della conchiglia spirale e concamerata, il nautilo è inoltre uno degli animali marini più iconici, rappresentato e citato diffusamente in varie espressioni artistiche, figurative e letterarie, e utilizzato come elemento ornamentale.
+Indice
+
+    1 Tassonomia
+        1.1 Aspetti generali
+        1.2 Forme attuali
+    2 Anatomia
+        2.1 Capo
+        2.2 Massa viscerale
+        2.3 Iponomo
+        2.4 Cavità branchiale
+        2.5 Mantello
+        2.6 Cordone sifonale
+    3 Morfologia della conchiglia
+        3.1 Tipo di avvolgimento
+        3.2 Strutture interne
+        3.3 Guscio esterno
+    4 Biologia e paleobiologia
+        4.1 Habitat
+            4.1.1 Forme attuali
+            4.1.2 Forme estinte
+        4.2 Stile di vita
+            4.2.1 Forme attuali
+            4.2.2 Forme estinte
+        4.3 Riproduzione e ontogenesi
+            4.3.1 Forme attuali
+            4.3.2 Forme estinte
+        4.4 Crescita della conchiglia
+    5 Storia evolutiva
+        5.1 Paleozoico
+        5.2 Mesozoico
+        5.3 Cenozoico
+    6 Nautiloidi fossili in Italia
+        6.1 Paleozoico
+        6.2 Mesozoico
+        6.3 Cenozoico
+    7 Aspetti economico-culturali
+        7.1 Interesse per la pesca
+        7.2 Interesse storico e artistico
+    8 Stato di conservazione
+    9 Note
+        9.1 Esplicative
+        9.2 Bibliografiche
+    10 Bibliografia
+    11 Voci correlate
+    12 Altri progetti
+    13 Collegamenti esterni
+
+Tassonomia
+Aspetti generali
+
+La classificazione dei Nautiloidea è notevolmente complessa e controversa. Per capirne le ragioni, occorre considerare il problema in una prospettiva storica.
+
+La classe Cephalopoda è stata tradizionalmente suddivisa dagli zoologi in due sottoclassi, in base al numero delle branchie:[4][5]
+
+    Tetrabranchiata - due paia di branchie
+        Nautiloidea
+        Ammonoidea - ammoniti in senso lato, gruppo vivente dal Devoniano al Cretaceo Superiore, oggi totalmente estinto
+    Dibranchiata - un paio di branchie
+        Coleoidea - gruppo che comprende il grosso dei cefalopodi attuali, tra cui ad esempio calamari, seppie e polpi.
+
+Per quanto riguarda la maggior parte delle forme estinte, non vi è modo di sapere quante paia di branchie avessero o comunque nel dettaglio la struttura delle loro parti molli (che generalmente non si fossilizzano). Per esempio, l'assegnazione degli Ammonoidea ai Tetrabranchiata è del tutto congetturale (alcuni tendono a inserirli tra i Dibranchiata, in quanto presumibilmente forme più avanzate rispetto ai Nautiloidea e più simili ai Coleoidea).[6] Rispettando i canoni della sistematica paleontologica, si privilegia quindi una suddivisione in tre sottoclassi sulla base della morfologia della conchiglia:[4][5][7]
+
+    Nautiloidea - conchiglia esterna concamerata con sifone generalmente ampio, generalmente subcentrale (meno frequentemente marginale) e vari tipi di strutture intrasifonali e depositi camerali (soprattutto nelle forme paleozoiche). Suture settali generalmente diritte o comunque semplici e parete relativamente spessa. Ornamentazione generalmente assente o poco sviluppata.[8]
+    Ammonoidea - conchiglia esterna concamerata con sifone sottile e privo di strutture interne, generalmente marginale e ventrale. Suture settali generalmente complesse e parete relativamente sottile. Ornamentazione generalmente sviluppata e complessa, soprattutto nelle forme tardo paleozoiche e mesozoiche.[9]
+    Coleoidea - conchiglia interna al mantello con camera di abitazione ridotta o assente, composta nelle forme fossili arcaiche da tre elementi distinti (proostraco, fragmocono e rostro)[N 1] che nelle forme avanzate tendono a ridursi fino alla scomparsa.[10]
+
+Si tratta comunque di una classificazione eccessivamente semplificata: i tre gruppi infatti risultano assai compositi, comprendendo forme notevolmente differenziate tra loro. In particolare i Nautiloidea, a partire dalle forme ancestrali, si sono diversificati fortemente per diversi caratteri tanto che alcuni gruppi differiscono tra loro più che rispetto agli Ammonoidea.[11] Per i Nautiloidea si può parlare di un gruppo parafiletico, caratterizzato da determinati caratteri primitivi comuni, non riscontrabili in altri cefalopodi. Dalla formulazione originaria, impostata principalmente sulle forme attuali, il termine Nautiloidea è infatti gradualmente passato a definire praticamente tutte le forme che non sono classificabili come Ammonoidea o Coleoidea: si tratta quindi di un gruppo definito più per esclusione rispetto ai propri discendenti, che non in base a caratteri univoci.[12]
+Nautiloidi Ortoceratidi fossili dal Siluriano della Boemia (Repubblica Ceca).
+
+Per queste ragioni, oltre che per l'ovvia difficoltà di risalire alle relazioni filogenetiche tra forme per la maggior parte estinte, le unità tassonomiche di rango elevato (sottoclasse, ordine, sottordine) sono ancora oggetto di dibattito tra gli specialisti. In questa sede, non si ritiene quindi opportuno fornire classificazioni dettagliate, sicuramente non univoche nella letteratura scientifica e comunque soggette a revisione continua, ma ci si limita all'elenco degli ordini meno controversi,[N 2] con il relativo intervallo stratigrafico di occorrenza:
+
+    Ordine Plectronocerida Flower, 1964. Cambriano Superiore.
+    Ordine Ellesmerocerida Flower, 1950. Cambriano Superiore – Siluriano.
+    Ordine Intejocerida Balashov, 1960. Ordoviciano Inferiore – Ordoviciano medio.
+    Ordine Ascocerida Kuhn, 1949. Ordoviciano Medio – Siluriano Inferiore.
+    Ordine Endocerida Teichert, 1933. Ordoviciano – Siluriano.
+    Ordine Tarphycerida Flower, 1950. Ordoviciano – Siluriano.
+    Ordine Barrandeocerida Flower, 1950. Ordoviciano – Devoniano Superiore (Frasniano).
+    Ordine Discosorida Flower, 1950. Ordoviciano Medio – Devoniano Superiore (Frasniano).
+    Ordine Oncocerida Flower, 1950. Ordoviciano Medio – Carbonifero Inferiore.
+    Ordine Actinocerida Teichert, 1933. Ordoviciano Medio - Carbonifero Medio.
+    Ordine Orthocerida Kuhn, 1940. Ordoviciano Medio – Triassico.
+    Ordine Nautilida Agassiz, 1847. Devoniano – Attuale.
+
+Forme attuali
+
+Attualmente, l'ordine Nautilida (unico vivente fra i Nautiloidea) è rappresentato da due generi:[13]
+
+    Nautilus Linnaeus, 1758. Comprende quattro specie sicuramente determinate:
+        N. belauensis Saunders, 1981
+        N. macromphalus Sowerby, 1849
+        N. pompilius Linnaeus, 1758
+        N. stenomphalus Sowerby, 1849
+
+Una quinta specie citata sovente (Nautilus repertus) è di dubbia validità, potendo rappresentare semplicemente una sottospecie di N. pompilius.
+
+    Allonautilus Ward and Saunders, 1997. Quest'ultimo è rappresentato da sole due specie, rare e poco conosciute.
+        A. scrobiculatus (Lightfoot, 1786)
+        A. perforatus (Conrad, 1847)
+
+Il criterio primario per la distinzione di Allonautilus in base ai caratteri della conchiglia è l'ampiezza dell'area ombelicale, che in questo genere è intorno al 20% del diametro massimo della conchiglia, mentre in Nautilus (anche nelle specie N. macromphalus e N. stenomphalus, in cui l'ombelico non è ricoperto da un callo), non è superiore al 16% del diametro. La sezione assiale (cioè parallela all'asse di avvolgimento della conchiglia) del giro è inoltre subquadrangolare, mentre in Nautilus è sempre ovale. Allonautilus mostra pure significative differenze nei tessuti viventi e, in particolare, nell'apparato riproduttivo rispetto a Nautilus.[14] Studi recenti, di ordine biologico, genetico e paleontologico,[15] permettono di ipotizzare una derivazione recente, nel Pleistocene, di Allonautilus da Nautilus (per acquisizione di un avvolgimento spirale meno stretto), piuttosto che da forme più antiche a minor grado di involuzione, estinte senza discendenti.
+Anatomia
+Schema anatomico semplificato di Nautilus.[16]
+
+Per quanto riguarda i caratteri anatomici, è possibile fare riferimento diretto solamente alle forme viventi, appartenenti ai generi Nautilus e Allonautilus.
+
+I principali elementi anatomici sono:[3][17]
+
+    capo
+    massa viscerale
+    iponomo o imbuto
+    cavità branchiale
+    mantello
+    cordone sifonale
+
+Capo
+
+Distinto dal resto del corpo, di cui costituisce la regione anteriore, è protetto superiormente da uno spesso cappuccio corneo, il quale occlude l'apertura quando l'animale si ritrae nella conchiglia per difesa.[4] Risulta provvisto lateralmente di due occhi voluminosi, strutturalmente piuttosto primitivi, privi di lente e cristallino e comunicanti con l'esterno (a differenza che nei cefalopodi più evoluti): funzionano come una camera oscura e non sono in grado di fornire immagini dettagliate, pur essendo sensibili alle variazioni della luce e in grado di percepire le masse in movimento e le sagome. Il nautilo è in grado di muovere gli occhi rispetto al corpo per compensare i cambiamenti di orientazione e mantenere gli occhi fissi rispetto alla direzione della gravità; questa caratteristica è particolarmente utile per compensare il movimento oscillatorio (sia di beccheggio che di rollio) della conchiglia dovuto alla propulsione e ai cambiamenti di direzione (oltre che a possibili sollecitazioni esterne).[18] In posizione interna rispetto agli occhi vi sono due organi a sacco, le statocisti, riempiti di piccoli statoliti ovoidali composti di aragonite e fosfato di calcio immersi in endolinfa, il cui movimento attiva un gran numero di cellule ciliate. Questi organi presiedono al senso dell'equilibrio e mediano il movimento relativo degli occhi rispetto al corpo, ma non hanno la complessità degli equivalenti organi dei coleoidi, che sono in grado di distinguere le componenti lineare e angolare dell'accelerazione (caratteristica correlata alle più sviluppate capacità natatorie dei cefalopodi endococleati).[19]
+Schema dell'occhio di un nautiloide.
+
+Un paio di organi a forma di sacco, i rinofori, sono situati sotto ciascun occhio e comunicano con l'esterno mediante un poro; sono provvisti all'interno di cellule ciliate e fungono da chemiorecettori preposti al senso dell'olfatto[20]. Il capo presenta inoltre una bocca munita di mascelle mineralizzate (di calcite) a "becco di pappagallo", che si rinvengono spesso fossilizzate (rincoliti). Internamente all'apertura buccale, nella faringe è presente la radula, un organo con funzione masticatoria simile ad una raspa, con diverse serie di denti (l'attuale Nautilus possiede una radula con 13 elementi), a composizione chitino-fosfatica.[21] Quest'ultimo elemento è significativo dal punto di vista tassonomico per le forme attuali di cefalopodi, ma è poco utilizzabile per la sistematica paleontologica in quanto meno facilmente conservato allo stato fossile e difficile da collegare alle forme di provenienza.[22]
+
+In nautiloidi estinti, appartenenti all'ordine Orthocerida del Siluriano della Svezia, è riportata la presenza di aptychopsis,[23] placche calcaree simili a due valve, congiunte lungo una linea di sutura marginale, del tutto analoghe a strutture (aptici) sviluppate dalle ammoniti nel Paleozoico superiore e nel Mesozoico.[24] Come per le ammoniti, gli "aptici" dei nautiloidi sono interpretati come opercoli (in questo caso sembra l'interpretazione più probabile rispetto a quella delle strutture nutritive). Oltre ai due elementi a valva, in queste forme è visibile una terza placca in posizione dorsale, che è stata interpretata invece come mascella superiore dell'animale.[25]
+
+La bocca è circondata da una serie di tentacoli sottili, prensili e retrattili, dotati di guaina. Il numero e le caratteristiche dei tentacoli nelle forme estinte non sono ovviamente conosciuti; nell'attuale Nautilus si contano 94 tentacoli, con una superficie priva di ventose o uncini ma ruvida, composti da un nervo centrale, vasi sanguigni, fibre muscolari sia trasversali che longitudinali (capaci di imprimere all'arto una torsione fino a 90°, inferiore a quella che possono operare i cefalopodi coleoidei più avanzati, come i polpi), e un epitelio. I tentacoli sono a sezione sub-triangolare e terminano a punta, e sono caratterizzati da creste trasversali, più sviluppate nella parte medio-distale dell'arto, che ne aumentano la ruvidezza facilitando la presa e la manipolazione. L'adesività della superficie dei tentacoli è facilitata dalla secrezione di una glicoproteina. I tentacoli normalmente sono retratti entro la guaina, che serve per limitare lo spreco di glicoproteina e prevenire danni ai tentacoli stessi, ed estratti all'occorrenza, di solito per la caccia per manipolare le prede o per afferrare il compagno durante l'atto riproduttivo.[26] I tentacoli derivano verosimilmente da una modificazione del piede, caratteristico delle altre classi di molluschi; i nautiloidi attuali utilizzano i tentacoli esterni allargandoli in un "cono di ricerca" e quelli interni per manipolare le prede e portarle alla bocca.[27]
+Massa viscerale
+Veduta della massa viscerale di un nautiloide attuale: 1) ovario; 2) cieco; 3) stomaco; 4) ano; 5) gozzo; 6) cappuccio; 7) muscolo della mascella superiore e nervi labiali; 8) iponomo; 9) organo di Valenciennes (femminile); 10) ghiandola nidamentale (femminile); 11) branchie (4); 12) nefridi; 13) appendici pericardiche (cuori branchiali); 14) ovidotto (femminile); 15) lobo destro del fegato; 16) intestino.
+Preparazione anatomica di nautilo in formalina, con l'indicazione degli elementi principali visibili. Cambridge University Museum of Zoology
+
+La massa viscerale è racchiusa nel mantello. Essa comprende:[22]
+
+    l'apparato digerente, che include un canale alimentare costituito da un esofago muscoloso, dotato di un'espansione ("gozzo"), dallo stomaco e dall'intestino, il tutto circondato da un'ampia ghiandola digestiva con funzione epato-pancreatica;
+    l'apparato circolatorio, che comprende un cuore principale sistemico, circondato da un pericardio e due cuori branchiali, tutti collegati ad un sistema arterioso e venoso;
+    il sistema nervoso, costituito da un sistema di gangli collegati tra loro e con le varie parti del corpo. Nei cefalopodi, il sistema nervoso è più evoluto che negli altri molluschi, e i gangli neurali (cerebrali, pedali e pleurali) sono collegati in un "cervello" circum-esofageo, protetto da una capsula cartilaginea. I gangli cerebrali ricevono i nervi degli occhi, dai tentacoli e, in generale, dal capo; i gangli pedali innervano l'iponomo e i gangli pleurali innervano il mantello;
+    l'apparato escretore, che presenta nefridi ("reni"), in numero di quattro, collegati al sistema circolatorio;
+    l'apparato riproduttore, costituito da un unico sacco che contiene le gonadi, situato nel retro della camera d'abitazione e comunicante tramite un dotto con la cavità del mantello. I sessi sono separati, con dimorfismo sessuale (i maschi sono più grandi delle femmine, e sviluppano una conchiglia più ampia). I maschi sono dotati di un pene di 4-5 mm situato subito dietro l'iponomo, collegato alle gonadi (testicolo) da organi accessori (vas deferens e sacco spermatoforico) in cui gli spermatozoi vengono formati e racchiusi in sacchi allungati detti spermatofori. Vi è inoltre solo negli esemplari maschili un organo sessuale secondario, lo spadice, prodotto dalla modificazione e dalla fusione di quattro tentacoli (cirri), usualmente sviluppato sul lato destro del corpo, che permette al maschio di introdurre direttamente gli spermatofori entro un organo specifico (organo di Valenciennes) posto sotto l'apparato boccale della femmina. L'atto riproduttivo avviene quindi senza un vero e proprio coito.[27][28] Nelle femmine, gli ovociti sono prodotti nell'ovario (sul retro della massa viscerale) e convogliati tramite un ovidotto e passano attraverso aperture nelle ghiandole nidamentali poste sul pavimento della cavità palleale, che regolano la fertilità e la ricettività sessuale, nelle quali gli ovociti si trasformano in uova vere e proprie e vengono a contatto con gli spermatozoi provenienti dall'organo di Valenciennes, dopo la rottura dello spermatoforo.[29]
+
+Iponomo
+
+Si tratta di un organo a forma di imbuto,[22] composto da due lembi muscolari sovrapposti, molto mobili, situati nella regione ventrale, che formano una struttura tubolare[4] attraverso la quale l'acqua può essere espulsa dalla cavità branchiale del mantello.[30] È un organo fondamentale per la locomozione dell'organismo, di cui può determinare un moto retrogrado mediante l'espulsione violenta dell'acqua in avanti.
+
+L'iponomo lascia sulla regione ventrale dell'apertura della conchiglia una insenatura caratteristica detta "seno iponomico", utilizzabile nelle forme fossili per la corretta orientazione della conchiglia stessa.[31]
+
+Anche questo elemento è il risultato della modificazione del piede ancestrale dei molluschi.[4]
+Cavità branchiale
+
+La cavità branchiale (o cavità palleale), in fondo all'iponomo, è completamente avvolta nel mantello e contiene le branchie, in numero di quattro, a struttura lamellare e prive di cilia vibratili.[32] Il numero delle branchie è un carattere tassonomico di primaria importanza per i cefalopodi, suddivisi in tetrabranchiati e dibranchiati. Ovviamente, questo elemento non è utilizzabile nelle forme estinte, per le quali si preferisce una classificazione basata sulla morfologia della conchiglia.
+Mantello
+
+Tessuto vivente formato da due lembi (dorsale e ventrale). Secerne la conchiglia, contiene la massa viscerale e la cavità celomatica o celoma, organo pieno di un liquido peculiare (liquido celomatico), con funzioni di contenimento e protezione degli organi viscerali.[32] Il tessuto muscolare (a differenza che nei Coleoidea) è confinato alla cavità branchiale e serve per alimentare la circolazione interna dell'acqua.[4]
+Cordone sifonale
+
+Nei Nautiloidea, il mantello si prolunga posteriormente in un cordone carnoso che ha la funzione di regolare il contenuto gassoso delle camere della conchiglia.[32] Il sifone non comunica con la cavità celomatica: si tratta di un semplice processo vascolare del mantello la cui cavità costituisce un vaso venoso e la cui parete contiene una ramificazione dell'arteria palleale. Il sifone è ricoperto nella maggior parte delle forme da un tubo totalmente o parzialmente calcificato (ectosifuncolo) costituito da strutture interne alla conchiglia.[33]
+Morfologia della conchiglia
+Tipo di avvolgimento
+Tipi di avvolgimento della conchiglia dei nautiloidi (forme viventi ed estinte). Da Allasinaz (1982), pp. 246-248, modificato.
+
+La conchiglia dei nautiloidi è approssimabile geometricamente ad un cono, detto "cono primitivo" (o "teorico"), diritto o variamente ricurvo o ancora avvolto su se stesso.[34]
+
+Sono elencati sotto i tipi di avvolgimento fondamentali:[35]
+
+    ortocono: conchiglia diritta
+    cirtocono: conchiglia ricurva in vari gradi, senza tuttavia completare un giro intero
+        endogastrico: conchiglia concava nella parte ventrale e convessa nella parte dorsale
+        esogastrico: conchiglia convessa nella parte ventrale e concava nella parte dorsale
+    girocono: conchiglia ricurva a spirale piana "lenta", con giri non a contatto tra loro
+        endogastrico: conchiglia concava nella parte ventrale e convessa nella parte dorsale
+        esogastrico: conchiglia convessa nella parte ventrale e concava nella parte dorsale
+    serpenticono: conchiglia planispirale evoluta, con giri a contatto tra loro
+    nautilocono: conchiglia planispirale fortemente involuta, in cui i giri si ricoprono tra loro
+    lituicono: conchiglia avvolta a spirale piana nei primi giri, che diviene ortocona nello stadio maturo
+    torticono: conchiglia con spirale elicoidale o variamente irregolare.
+
+Le forme più antiche sono generalmente brevicone, sia ortocone (a conchiglia conica diritta, priva di avvolgimento), che con curvatura poco pronunciata (cirtocona).[1] Accanto a queste morfologie si sviluppano presto forme longicone con tendenza all'avvolgimento planispirale (cioè a spirale logaritmica, con avvolgimento nel piano di simmetria bilaterale dell'organismo), e meno frequentemente trocospirale (con spirale ad elica, avvolta intorno ad un cono). L'avvolgimento può essere sia esogastrico che endogastrico, principalmente in relazione alla posizione di vita originale dell'organismo. Il tipo di avvolgimento poteva cambiare nel corso dell'ontogenesi dell'organismo, con stile di vita diverso per gli stadi giovanili e adulti. Nelle forme attuali conosciute abbiamo solo avvolgimenti di tipo nautilocono. Nelle forme estinte, la conchiglia ha una morfologia molto varia; si riscontrano quasi tutti i tipi di avvolgimento noti anche nelle ammoniti. È interessante notare che nel caso dell'avvolgimento endogastrico (Discosorida) l'iponomo era orientato posteriormente, con movimento quindi in avanti (a differenza della maggior parte dei nautiloidi che hanno moto retrogrado).[36]
+
+La progressiva tendenza all'avvolgimento planispirale della conchiglia risponde all'esigenza di portare le camere pneumatiche del fragmocono sopra la camera di abitazione e quindi sopra il corpo dell'animale, portando quindi il centro di gravità dell'organismo al di sotto del centro di galleggiamento, per un assetto più equilibrato.[37] Questo pattern evolutivo si ripete negli Ammonoidea. L'avvolgimento planispirale rappresenta la soluzione più economica e "compatta" a questo problema, permettendo nel contempo una maggiore resa idrodinamica e una migliore manovrabilità della conchiglia: caratteristiche che infine si dimostreranno vincenti.[38] Dal Giurassico, infatti, sono note solamente forme planispirali, più o meno involute (con altezza del giro superiore al diametro ombelicale), originatesi da forme cirtocone e girocone esogastriche (con il ventre sul lato esterno convesso della conchiglia).[39]
+
+    Avvolgimento endogastrico ed esogastrico.[N 3]
+    Avvolgimento endogastrico ed esogastrico.[N 3]
+    Cyclendoceras, forma ortocona.
+    Cyclendoceras, forma ortocona.
+    Cyrtoceras, una forma cirtocona esogastrica.
+    Cyrtoceras, una forma cirtocona esogastrica.
+    Strandoceras, una forma cirtocona endogastrica (visibile in basso a sinistra il labbro dell'apertura con il seno iponomico).
+    Strandoceras, una forma cirtocona endogastrica (visibile in basso a sinistra il labbro dell'apertura con il seno iponomico).
+    Aipoceras (Nautilida), forma con conchiglia girocona esogastrica.
+    Aipoceras (Nautilida), forma con conchiglia girocona esogastrica.
+    Phragmoceras (Discosorida), forma girocona endogastrica.
+    Phragmoceras (Discosorida), forma girocona endogastrica.
+    Coelonautilus, forma con avvolgimento serpenticono.
+    Coelonautilus, forma con avvolgimento serpenticono.
+    Cymatoceras, forma con avvolgimento nautilocono.
+    Cymatoceras, forma con avvolgimento nautilocono.
+    Lituites lituus. Forma lituicona, planispirale nello stadio giovanile, ortocona nell'adulto.
+    Lituites lituus. Forma lituicona, planispirale nello stadio giovanile, ortocona nell'adulto.
+    Esempio di conchiglia con avvolgimento torticono (elicoidale). Genere Pleismoceras.
+    Esempio di conchiglia con avvolgimento torticono (elicoidale). Genere Pleismoceras.
+    Principali elementi morfologici e morfometrici di un nautiloide ad avvolgimento planispirale. Esemplare fossile dal Giurassico Superiore del Madagascar.
+    Principali elementi morfologici e morfometrici di un nautiloide ad avvolgimento planispirale. Esemplare fossile dal Giurassico Superiore del Madagascar.
+
+Strutture interne
+
+La conchiglia è suddivisa in due parti:[34]
+
+    camera d'abitazione (l'ultima camera, la più grande, che contiene il corpo del mollusco);
+    fragmocono, suddiviso da setti (septum; plur. septa) in numerose camere minori, che si estende dall'apice della conchiglia alla base della camera di abitazione.
+
+Le camere del fragmocono, soprattutto nelle forme orto- e cirtocone, sono frequentemente interessate da depositi calcarei che ne rivestono le pareti (depositi endocamerali) ed esercitano una funzione di equilibrio idrostatico, per controbilanciare il peso del corpo del mollusco; si dividono in:[40]
+
+    depositi murali, cioè a contatto con la parete esterna;
+    depositi episettali, cioè sul lato del setto verso l'apertura;
+    depositi iposettali, cioè sul lato del setto verso l'apice.
+
+L'apertura della camera di abitazione si definisce "aperta" se il diametro del giro della conchiglia cresce uniformemente fino all'ultimo; "contratta" se il diametro si restringe nell'ultima parte e infine "costretta" se si ha un restringimento a "collo di bottiglia" e uno svasamento nell'ultima parte. L'apertura è nella maggior parte delle forme interessata nella regione ventrale da un seno iponomico più o meno sviluppato. In alcuni casi l'apertura è di forma complessa, soprattutto negli ordini Oncocerida e Discosorida, con proiezioni a spatola e a lobo. L'apertura contratta o costretta è indicativa dello stadio adulto, e corrispondeva alla cessazione della crescita della conchiglia.[41]
+
+I setti sono di tipo procelico, cioè concavi in avanti (verso l'apertura della conchiglia), e si susseguono a distanze gradatamente crescenti procedendo dall'apice (nella parte più interna della conchiglia) verso la camera d'abitazione.[42] La linea di sutura dei setti alla parete del guscio nei nautiloidi è meno complessa e meno importante dal punto di vista tassonomico rispetto alla sutura delle ammoniti: si presenta generalmente diritta o leggermente ondulata, anche se alcune famiglie di nautiloidi tendono a sviluppare suture più complesse, simili a quelle di ammonoidi primitivi del Devoniano (Goniatitida, e tra questi in particolare i Clymeniida). In entrambi i gruppi,[43] lo sviluppo di suture complesse è collegato all'evoluzione morfologica da conchiglie tendenzialmente evolute con profilo del giro tondeggiante a conchiglie involute e compresse con fianchi appiattiti. Questa configurazione, maggiormente idrodinamica ma più debole dal punto di vista della resistenza alla pressione, avrebbe spinto queste forme ad aumentare la sinuosità dei setti per rinforzare la parete del fragmocono.
+
+Quando la linea di sutura è ondulata si distinguono due tipi di elementi:[42]
+
+    lobi - sono inflessioni verso l'apice della conchiglia, con la concavità orientata verso l'apertura;
+    selle - inflessioni verso l'apertura, con la convessità rivolta verso quest'ultima.
+
+Un sifone, costituito da un prolungamento del mantello, collega la camera di abitazione con le camere del fragmocono; ha l'aspetto di un cordone carnoso, percorso da una arteria e una vena principali, da una rete di vasi capillari e da nervi, ed è protetto da un rivestimento di conchiolina e aragonite secrete dal sifone stesso. Esso percorre tutto il fragmocono, passando attraverso i fori sifonali (o fori settali) di ciascun setto. Detti fori sono dotati di colletti settali, sempre di tipo retrosifonato o retrocoanitico, rivolti cioè all'indietro, verso la loggia embrionale o protoconca. A seconda del loro decorso e del grado di sviluppo, i colletti settali possono essere inoltre:[44]
+
+    acoanitici: rudimentali, costituiti da una debole inflessione dei setti;
+    ortocoanitici: corti e cilindrici;
+    cirtocoanitici: ricurvi verso l'interno delle camere; in queste forme il sifone ha un andamento caratteristico, più stretto in corrispondenza dei setti e allargato in corrispondenza delle camere;
+    olocoanitici: molto allungati, a volte fino a toccare il setto precedente.
+
+Il sifone è spesso caratterizzato da strutture interne, le strutture intrasifonali. Si tratta di depositi calcarei che riempiono in tutto o in parte la cavità sifonale. Possono essere di tre tipi principali:[45]
+
+    depositi annulosifonati: anelli calcarei che ispessiscono i colletti settali e si possono estendere nella parete del sifone entro le camere;
+    depositi actinosifonati: depositi lamellari con decorso parallelo all'asse della conchiglia;
+    endoconi: lamelle calcaree a forma di cono con il vertice orientato verso la protoconca, tipici di forme con sifone molto ampio.
+
+Si tratta di strutture di notevole significato tassonomico, della stessa importanza che hanno le suture settali per le ammoniti. La loro funzione non è del tutto chiara, ma sono probabilmente in parte connesse all'equilibrio idrostatico della conchiglia (i tipi più massicci),[46] e in parte potrebbero aver costituito il supporto di strutture organiche preposte alla funzione di regolazione dello scambio di gas tra il sifone e le camere. Il sifone generalmente è situato in posizione centrale ma, in alcuni gruppi, può essere ravvicinato o al lato dorsale o a quello ventrale; ha la funzione di regolare la pressione dei gas e il rapporto tra gas e liquido contenuti nelle camerette del fragmocono, col risultato di variare il peso dell'organismo e quindi la quota d'immersione (funzione idrostatica).[44]
+
+    Sezione di conchiglia di Nautilus attuale; A) camera d'abitazione; B) protoconca; C) colletti settali (ortocoanitici) e anelli di connessione; D) setti; E) fragmocono.[N 4]
+    Sezione di conchiglia di Nautilus attuale; A) camera d'abitazione; B) protoconca; C) colletti settali (ortocoanitici) e anelli di connessione; D) setti; E) fragmocono.[N 4]
+    Decorso della linea di sutura in generi recenti di nautiloidi. In alto Nautilus (Oligocene-Attuale) e in basso Aturia (Paleocene-Miocene).[N 5]
+    Decorso della linea di sutura in generi recenti di nautiloidi. In alto Nautilus (Oligocene-Attuale) e in basso Aturia (Paleocene-Miocene).[N 5]
+    Modello interno di Nautiloide nautilocono (genere Cymatoceras, dall'Albiano del Madagascar). È visibile il decorso delle suture settali, debolmente curvilinee e caratterizzate da un'ampia sella ventrale e da un lobo laterale.
+    Modello interno di Nautiloide nautilocono (genere Cymatoceras, dall'Albiano del Madagascar). È visibile il decorso delle suture settali, debolmente curvilinee e caratterizzate da un'ampia sella ventrale e da un lobo laterale.
+    Sezione lucida di calcare a Orthoceras, dal Siluriano superiore-Devoniano inferiore di Erfoud (Marocco).[N 6]
+    Sezione lucida di calcare a Orthoceras, dal Siluriano superiore-Devoniano inferiore di Erfoud (Marocco).[N 6]
+    Tipi di depositi intra-sifonali e di colletti settali sviluppati dai nautiloidi.[47]
+    Tipi di depositi intra-sifonali e di colletti settali sviluppati dai nautiloidi.[47]
+
+Guscio esterno
+
+Il guscio, costituito di conchiolina e aragonite, presenta due strati:[48]
+
+    uno straterello esterno porcellanaceo, prevalentemente granulare;
+    uno strato interno, madreperlaceo, laminare, formato da lamine alternate di aragonite e conchiolina, parallele rispetto al bordo della conchiglia.
+
+L'ornamentazione è relativamente poco importante e consiste per lo più di strie di accrescimento; talvolta sono presenti anche delle costicine (costellae) longitudinali e trasversali e/o sottili pieghe longitudinali (lirae) e decorso spirale. Alcune forme, prevalentemente paleozoiche, sviluppano ornamentazioni più complesse, come coste, tubercoli e spine.[49]
+
+La colorazione della conchiglia nelle forme attuali consiste in strisce di colore rossiccio presenti sul ventre e sui fianchi, dritte o con decorso a zigzag, semplici o biforcate, su fondo bianco-crema;[50] il pattern di colorazione sembra essere peculiare delle popolazioni pertinenti ad aree specifiche e potenzialmente indicativo di sottospecie distinte.[51] Questo tipo di colorazione rientra nei casi di mimetismo, così frequente in tutto il regno animale, e serve principalmente a "spezzare" la sagoma della conchiglia e a renderne più difficile l'individuazione da parte dei predatori.[52] Nei rari casi in cui tracce della colorazione originale sono presenti nei fossili, questa è sostanzialmente simile a quella delle specie attuali (anche nelle forme ortocone o con altri tipi di avvolgimento): prevalentemente strisce trasversali a zigzag, scure su fondo chiaro,[53] e in qualche caso, soprattutto nelle forme ortoconiche, strie longitudinali.[54]
+Biologia e paleobiologia
+HabitatForme attuali
+
+La presenza dei Nautiloidea era ritenuta fino a poche decine di anni fa rara e limitata ad alcuni remoti arcipelaghi nell'Oceano Pacifico sud-occidentale; più recentemente queste forme sono state riconosciute nella maggior parte della regione indo-pacifica tropicale (penisola indocinese, Isole Andamane, Isole della Sonda, Filippine, Nuova Guinea e Figi, Isole Salomone, Australia settentrionale).[55]
+
+I nautiloidi attuali sono forme necto-bentoniche (cioè forme mobili che vivono e si nutrono sul fondale o in prossimità di esso), associate ad ambienti di reef corallino.[56]
+
+L'intervallo di profondità per loro ottimale sembra andare da 150 a 300 m, anche se sono stati osservati da profondità prossime al livello del mare fino a circa 500 m.[21] La parte concamerata (fragmocono) della conchiglia è riempita da una miscela gassosa composta prevalentemente di azoto (con frazioni minori di ossigeno e argon), la cui pressione è regolata dal sifone. Le camere del fragmocono più prossime alla camera di abitazione sono in parte allagate da liquido camerale, con densità minore rispetto all'acqua marina a causa dei gas disciolti, che ha funzione sia di equilibrio statico della conchiglia che di riequilibrio della pressione esterna. Questo meccanismo consente al mollusco di variare la propria profondità, anche se in tempi piuttosto lunghi pari a diversi giorni.[2][57] I fattori che controllano il limite superiore di diffusione di queste forme sono sostanzialmente la predazione da parte dei pesci (più frequenti negli strati d'acqua prossimi alla superficie), e la temperatura. Temperature superiori a 25 °C possono risultare letali per questi animali: questo spiega perché le segnalazioni di nautiloidi a bassa profondità avvengono il più delle volte di notte o nella stagione fredda.[21] I limiti inferiori di profondità sono determinati dall'inizio dell'allagamento delle camere del fragmocono (300–400 m), e dal limite di implosione della conchiglia, stimato intorno a 800-900 m.[2][55] Questi limiti sono stati determinati sperimentalmente,[58] calando esemplari vivi di Nautilus a diverse profondità in gabbie chiuse, fino alla rottura meccanica della conchiglia.
+Forme estinte
+
+Alcuni dati ecologici, come i limiti di distribuzione areale e verticale e la tipologia di nutrizione, pur con estrema cautela e in termini generali, possono essere estrapolati alle forme estinte. Altri elementi possono essere ipotizzati ragionevolmente dai caratteri morfologici della conchiglia, anche se più facilmente per le forme simili alle attuali, con conchiglia planispirale. Ulteriori informazioni possono essere ricavate dall'associazione faunistica fossile e dal tipo di sedimento in cui queste forme vengono rinvenute, tenendo tuttavia presente che la conchiglia poteva subire per un certo periodo dopo la morte dell'animale un trasporto passivo grazie ai gas contenuti nel fragmocono, ed essere quindi rinvenuta in posizione alloctona (anche al di fuori dell'ambiente di vita originale dell'organismo).
+
+Sono state tentate estrapolazioni[59] dei limiti massimi di profondità dell'habitat delle forme di nautiloidi estinte, basate su misure dello spessore e del raggio di curvatura dei setti di esemplari fossili calibrate con i dati relativi ai limiti di implosione della conchiglia di forme attuali (Spirula e Nautilus).[N 7] I risultati indicano limiti inferiori di profondità che vanno dai 100-150 m per Actinocerida, Discosorida, Oncocerida e Tarphycerida, ai 200-600 m per Ellesmerocerida e Nautilida (forme paleozoiche), fino ai 450–500 m per Endocerida e Orthocerida. Questi valori sono basati sull'assunzione che la profondità massima abituale di queste forme fosse pari ai 2/3 del limite meccanico della conchiglia. Questi limiti appaiono abbastanza ragionevoli e in accordo con altri caratteri morfologici delle forme descritte (presenza di depositi camerali ed endosifonali, morfologia e spessore della conchiglia), distribuzione nei sedimenti e associazione faunistica. Tuttavia questa interpretazione, pur avendo ottenuto un certo successo, non è accettata univocamente dai ricercatori. Le obiezioni più serie riguardano:[60]
+
+    l'assunzione del Nautilus attuale come riferimento per la calibrazione delle misure eseguite sulle forme fossili, per significative differenze nella microstruttura del guscio in diverse forme fossili;
+    l'eccessiva semplificazione del modello matematico utilizzato, che indica un solo parametro fisico, l'indice di resistenza (strength index, funzione del rapporto tra spessore e raggio di curvatura del setto), come determinante per la valutazione del limite di implosione della conchiglia.
+
+Analisi più recenti,[61][62] condotte col metodo degli elementi finiti postulando condizioni conformi a quelle ambientali, sembrerebbero tuttavia confermare il fatto che la struttura dei setti sia determinante per la stima della resistenza della conchiglia dei nautiloidi e dei cefalopodi ectococleati in genere, pur focalizzando maggiormente l'attenzione sulla resistenza dell'ultimo setto (finale) del fragmocono, che sopporta le maggiori sollecitazioni determinate dalla pressione idrostatica.[63]
+Stile di vita
+Forme attuali
+
+Il nuoto orizzontale dei nautiloidi attuali è piuttosto lento se confrontato con quello di organismi di uguale mole come pesci e cefalopodi coleoidi (per il peso e l'ingombro della conchiglia e la mancanza di pinne): circa 25 cm/s come valori massimi (per esemplari sotto stress o in fuga) e 5-10 cm/s come velocità normale.[64] Tuttavia su tempi più lunghi sono forme in realtà molto mobili: esemplari contrassegnati sono stati seguiti in spostamenti fino ad oltre 150 km in un anno,[65] con una media di spostamenti (da dati telemetrici) intorno a 0,5 km/giorno.[66] Sono molto frequenti anche gli spostamenti verticali, in quanto questi animali si muovono verso la superficie marina durante la notte e ritornano in acque profonde durante il giorno (nel quale rimangono comunque attivi).[21] L'entità di questi spostamenti (desunta tracciando esemplari mediante trasmettitori ultrasonici) è fra il centinaio di metri e circa 500 m, con 200 m come valore apparentemente più comune.[67]
+
+I nautili possono controllare il galleggiamento, sia a lungo che a breve termine. Il primo caso si ha durante la crescita corporea degli individui, che implica un aumento del peso: tale aumento viene compensato dall'animale rimuovendo liquido camerale dal fragmocono. Aggiustamenti a breve termine possono occorrere per un alleggerimento improvviso dell'organismo (ad esempio quando parte della conchiglia viene rimossa in un tentativo di predazione): dati sperimentali indicano che l'animale riesce a compensare la variazione di peso aggiungendo liquido camerale; la maggior parte del processo avviene entro le prime 30 ore, mentre l'intero processo di compensazione richiede circa 4 giorni. Tempistiche analoghe si ottengono con procedure indotte di "appesantimento" (ad esempio dopo un pasto particolarmente abbondante dell'animale, oppure se l'acqua marina penetra in alcune camere a causa di un danno alla conchiglia), compensato dall'organismo svuotando camere del fragmocono dal liquido camerale. Queste procedure di compensazione, messe in atto mediante uno scambio osmotico tra il sangue e i fluidi camerali, sono comunque troppo lente per essere eseguite dai nautili per movimenti verticali rapidi o anche per gli spostamenti verticali giornalieri, azioni che richiedono quindi principalmente una locomozione attiva, mediante l'iponomo.[68]
+
+Lo spostamento ciclico verso acque più profonde nelle ore diurne sembra relazionato soprattutto con la temperatura (i nautili non tollerano temperature superiori ai 25 °C), ma anche verosimilmente con la necessità di minimizzare la probabilità di predazione da parte dei pesci teleostei, più comuni entro una profondità di un centinaio di metri dalla superficie e più attivi di giorno.[69] Peraltro vi sono anche pesci teleostei di acque profonde indiziati di predazione nei confronti dei nautili (ad esempio della famiglia Lutjanidae, spesso intrappolati insieme ai nautili stessi, e squali del genere Echinorhinus, fotografati insieme a loro).[70]
+Nautili che si nutrono di una carcassa di pesce (ripresi durante il giorno, a 703 m di profondità.
+
+I crostacei decapodi e i granchi sembrano essere il cibo standard sia per i giovani che per i nautiloidi adulti, tuttavia nello stomaco di esemplari catturati sono stati rinvenuti anche frammenti di echinidi, ossa di pesci, mascelle di cefalopodi coleoidei e tentacoli di altri nautiloidi, come pure mute fresche di crostacei di grande mole come aragoste,[71] che indicano una dieta piuttosto variata, da predatore demersale attivo e versatile, talora opportunista, occasionalmente necrofago.[21][72] Il processo digestivo (dall'assunzione del cibo all'eliminazione) richiede circa 12 ore (simile a quanto riscontrabile in seppie e ottopodi, ma doppio rispetto a quello dei calamari). Il cibo può essere conservato entro il "gozzo" (notevolmente espandibile)[73] fino a due settimane prima di essere digerito: caratteristica utile per un organismo nel cui ambiente il cibo non è abbondante né sicuro.[74] Quando sono in cerca di cibo, i nautili procedono usualmente in nuoto retrogrado allargando i tentacoli esterni in un "cono di ricerca";[27] secondo l'osservazione diretta mediante esche predisposte e fototrappole, quando hanno individuato il cibo mediante i loro sensi (occhi, rinofori e altri chemiorecettori posti sui tentacoli), o direttamente mediante i tentacoli, si dirigono verso di esso e procedono con movimento in direzione anteriore, più lento (invertendo il getto dell'iponomo), estendono i tentacoli e iniziano a tastare e manipolarlo, portando il cibo alla bocca. Possono mangiare per ore, e ritornano periodicamente fino a consumare del tutto le esche. Talora, se disturbati,[N 8] dopo aver afferrato il cibo con i tentacoli nuotano via vigorosamente mentre inghiottono la preda.[75] Esperimenti di tipo pavloviano con nautili viventi (N. pompilius) hanno dimostrato che questi organismi possiedono una memoria a breve e una a lungo termine: la memoria a breve termine persiste post-training per meno di un'ora, mentre la memoria a lungo termine perdura da 6 a 24 ore. Questi risultati sono simili a quelli riscontrati nei cefalopodi coleoidei, più avanzati, sebbene l'organizzazione neurale del nautilo sia apparentemente più semplice, mancando delle regioni neurali specializzate per la memoria e l'apprendimento che si riscontrano nelle forme derivate.[76]
+
+I nautili attuali sono predati prevalentemente da pesci di fondale di media e grande taglia (come documentato per cernie e pesci balestra)[N 9] con denti conici o a placca (durofagi), che abitualmente si nutrono di molluschi e che riescono talvolta ad aver ragione della loro conchiglia, soprattutto frantumando il peristoma o lacerando il cappuccio.[77] Devono guardarsi anche da alcune specie velenose di cefalopodi ottopodi (polpi), che riescono a perforare la camera di abitazione della conchiglia con le mascelle e a paralizzarli con la loro secrezione salivare;[78] per altro la sopravvivenza dei nautili ad attacchi da parte di pesci o altri cefalopodi (altri nautili inclusi) sembra essere abbastanza alta a giudicare dal numero spesso elevato di cicatrici rimarginate riscontrato sulla conchiglia di esemplari sia viventi (marcati e ricatturati) che morti.[79] Gli eventi di predazione da parte di cefalopodi coleoidei (polpi) sono relativamente poco conosciuti in natura, eccetto che per i fori e le cicatrici riscontrati sulle conchiglie di esemplari di nautili; è stato osservato un esempio sicuro di predazione di un nautilo, perforato e in parte mangiato, che era stato intrappolato con altri insieme ad un esemplare di Octopus cyanea.[80] Le osservazioni in natura evidenziano che i nautili sotto attacco da parte di predatori teleostei non attuano alcuna strategia di reazione o di fuga e si limitano a ritirarsi entro la conchiglia abbassando il cappuccio e minimizzando quindi le parti molli (soprattutto tentacoli, occhi e iponomo) esposte all'attacco.[81] Dagli eventi di aggressione osservati, i pesci possono danneggiare più facilmente la conchiglia o il cappuccio se riescono a costringere un esemplare contro il fondale, mentre il danno inflitto durante attacchi in acque aperte è minore per la scarsa presa dei denti sulla conchiglia liscia, tondeggiante e scivolosa.[70][N 10]
+Forme estinte
+
+Le forme longicone, sia ortocone che cirtocone e girocone, in genere con camere settali ampie, depositi camerali e profondo seno iponomico, conducevano probabilmente vita necto-bentonica attiva. Si tratta probabilmente di forme più lente e meno agili rispetto alle forme attuali, per la minore maneggevolezza della conchiglia conica non avvolta, dovuta alla maggiore difficoltà di equilibrare il peso del corpo (situato ad una estremità della conchiglia);[82] inoltre in queste forme la posizione neutra idrostatica sarebbe comunque con l'apice della conchiglia rivolto verso l'alto, cosa che contrasta evidentemente con l'ipotesi di un nuoto attivo.[83] L'equilibrio idrostatico in posizione favorevole al nuoto attivo (suborizzontale) veniva raggiunto appesantendo la conchiglia mediante depositi endosifonali e endocamerali, in genere sempre più spessi verso la parte apicale della conchiglia.[84] Le forme brevicone con piccolo fragmocono non potevano contenere gas sufficiente per favorire il nuoto e conducevano probabilmente vita bentonica vagile: si spostavano cioè a contatto con il fondale usando sia i tentacoli che l'imbuto (il seno iponomico è comunque presente nella maggior parte dei casi).[85] Studi più recenti sul comportamento idrostatico di questi organismi[86] indicherebbero però che i depositi minerali entro il sifuncolo e le camere non sarebbero sufficienti da soli per costituire un contrappeso efficiente, tale da mantenere la conchiglia in posizione orizzontale, ma tale posizione comunque richiederebbe una locomozione attiva. In alcune forme (ordine Ascocerida), le camere pneumatiche si disponevano in posizione dorsale, sopra la camera di abitazione, eliminando quindi la necessità di depositi entro le camere e il sifone che facessero da contrappeso, adattamento compatibile con uno stile di vita più francamente nectonico.[87]
+
+Le abitudini alimentari del gruppo, anche per le forme estinte, sono considerate, in accordo con quelle attuali, di consumatori di proteine. Per quanto riguarda il Paleozoico Inferiore (cioè il momento di maggior successo di questo gruppo), allo stato attuale delle conoscenze, l'ipotesi prevalente tra i ricercatori è che le mascelle dei nautiloidi non fossero mineralizzate, ma a composizione chitinica.[88] Ciò è interpretato generalmente non come una indicazione che i nautiloidi non fossero forme predatrici, ma semplicemente del fatto che predassero organismi a corpo molle o ricoperto da gusci a loro volta scarsamente mineralizzati. Le forme maggiormente indiziate come potenziali prede dei nautiloidi sono tradizionalmente i trilobiti, gli artropodi più diffusi di allora, soprattutto per analogia con le forme attuali (predatrici di crostacei): sono stati rinvenuti diffusamente carapaci di trilobiti con tracce di rotture meccaniche o parzialmente smembrati, talora entro coproliti o possibili resti dell'apparato digerente di nautiloidi, che sono stati interpretati da diversi ricercatori come tracce di predazione.[88] Le mascelle dei nautiloidi erano probabilmente in grado di aver ragione dei gusci di molti trilobiti, che peraltro in questo periodo portano alla perfezione la capacità di avvolgere il carapace su se stesso (a "palla"), in modo da offrire minore presa alla manipolazione e minore possibilità di accesso alla parte ventrale vulnerabile, coordinando inoltre il movimento di arrotolamento con l'infossamento entro il sedimento di fondale,[89] mentre altre forme sviluppano all'estremo ornamentazioni spinose, sempre in funzione difensiva.[90] Questo tipo di relazione trofica è dedotto anche per via indiretta, dallo sviluppo progressivo di strutture difensive (spine, nodi e tubercoli) nel corso dell'Ordoviciano da dei trilobiti, alcuni dei quali[91] assunsero inoltre un modo di vita endobionte, in tane sotto la superficie del sedimento (interpretate come protezione dai predatori). Nell'ultimo trentennio, alcuni ritrovamenti di strutture simili ad aptici (aptychopsis), associate a nautiloidi siluriani[24] hanno posto il problema (come già per le ammoniti) se questo tipo di strutture avesse scopo difensivo (una sorta di "opercolo" articolato in tre placche calcaree)[92] oppure costituissero parti dell'apparato mandibolare, e quello delle loro relazioni con le strutture dei nautiloidi più recenti. La questione è tuttora discussa e lontana da una soluzione univoca. La tendenza prevalente è quella di ammettere una doppia funzione per queste strutture: sia difensiva che nutritiva; secondo questa corrente di ricerca, in realtà il "becco" dei nautiloidi tardo-paleozoici, mesozoici e poi cenozoici sarebbe il risultato dell'evoluzione nel Paleozoico Superiore di strutture come gli aptychopsis, da apparati complessi e relativamente pesanti con funzione mista o prevalentemente difensiva, per progressiva semplificazione, a vere e proprie mascelle composte di due soli elementi.[93] I più antichi rincoliti fossili conosciuti, non molto dissimili da quelli dei cefalopodi attuali, risalgono al Carbonifero.[88] Nel Paleozoico Superiore, le forme dotate di parti dure più diffuse e differenziate nelle comunità bentoniche erano ancora i brachiopodi: tracce di predazione consistenti in impronte semilunate su conchiglie di brachiopodi sono state interpretate come "morsi" da parte di becchi di nautiloidi.[88][94][95]
+
+Il rinvenimento diffuso di mascelle di cefalopodi (rincoliti) associate alle conchiglie dei nautiloidi nel Meso-Cenozoico, indica chiaramente che si trattava di forme predatrici, simili alle attuali. I rincoliti fossili, anche risalenti a tempi piuttosto antichi, come il Triassico differiscono poco rispetto a quelli dei nautiloidi attuali,[96] pur essendo più robusti e di maggiori dimensioni, atti a incidere e frantumare gusci e conchiglie più spessi,[97] e sembrano indicare uno stile di vita simile, con analoghi comportamenti predatori, nell'ambito di associazioni faunistiche tuttavia più simili a quelle attuali che non quelle paleozoiche, con comunità a molluschi e a crostacei decapodi già ben differenziate. La straordinaria diversificazione del gruppo sembra indicare numerosi e vari tipi di adattamento, compresa, ad esempio, anche la predazione di altri nautiloidi (per analogia con le forme attuali, per le quali è ampiamente documentata).[56] Altri organismi che, per analogia con le forme viventi, potrebbero essere stati oggetto di predazione da parte dei nautiloidi sono gli echinodermi (sia echinoidi che, soprattutto, crinoidi - allora molto più diffusi di oggi) e cordati o pesci primitivi di piccola taglia[56] D'altro canto, è possibile che molti nautiloidi si nutrissero di forme a corpo molle. Una possibilità non trascurabile (ma difficilmente verificabile sul materiale fossile) è la predazione di organismi planctonici o necto-planctonici come le meduse. Le meduse sono tra i più antichi metazoi di cui si abbia testimonianza fossile, fin dal Precambriano, e sicuramente nel Paleozoico Inferiore erano estremamente diffuse, con ogni probabilità ancor più che attualmente. La predazione di meduse da parte di cefalopodi (anche se non di nautiloidi) è documentata nei mari e negli oceani attuali,[98] ed è possibile che questi organismi fossero una fonte di nutrimento significativa anche per i nautiloidi paleozoici. Secondo prove in vivo effettuate dagli autori citati, la pelle dei cefalopodi è anche molto meno sensibile di quella dei vertebrati alle nematocisti (cellule urticanti) che ricoprono le meduse.[99] È stato osservato inoltre che la predazione di meduse potrebbe essere volta sia ai tessuti delle stesse (seppure abbastanza poveri di sostanze nutritive come lipidi e proteine e composti prevalentemente da acqua), sia al consumo da parte del cefalopode del cibo contenuto entro la cavità gastrica del celenterato, consistente principalmente in zooplancton.[99] In diverse forme, la presenza di un'apertura notevolmente ridotta (almeno nell'adulto) per costrizione o contrazione, che presuppone una riduzione notevole dello spazio per le strutture nutritive e i tentacoli, sembra indicare una dieta di tipo microfago (cioè composta di microrganismi o di organismi sub-microscopici).[100] La questione è però ancora oggetto di discussione tra i ricercatori: almeno per alcune forme la presenza di impronte muscolari profonde nella camera d'abitazione fa pensare alla possibilità di rapidi movimenti di estroflessione della massa cefalica, anche attraverso l'apertura ridotta.[101]
+
+I nautiloidi paleozoici potrebbero essere stati soggetti a predazione da parte dei placodermi ("pesci" corazzati con placche dentali affilate, in grado di fracassare la conchiglia dei nautiloidi) a partire dal Siluriano, anche se non vi sono sicure evidenze in termini di differenziazione evolutiva nel record fossilifero dei cefalopodi;[102] il primo evento realmente significativo è tra tardo Devoniano e Carbonifero inferiore,[103] in cui è riscontrabile la graduale sostituzione delle forme orto-cirtocone da parte delle forme avvolte di cefalopodi, più veloci e manovrabili, probabilmente sotto la spinta della diffusione e differenziazione dei primi pesci veri e propri (soprattutto squali primitivi).
+Nel Mesozoico e soprattutto nel Cretaceo,[104] sono documentate tracce di predazione (impronte di denti) da parte di rettili marini (nel caso citato mosasauri). Il declino dei cefalopodi ectococleati (a conchiglia esterna), inclusi i nautiloidi nel tardo Cretacico e soprattutto nel Cenozoico presenta una significativa convergenza con la sempre maggiore diffusione dei pesci più avanzati (teleostei).[103]
+
+    Ricostruzione di un fondale ordoviciano con alcuni nautiloidi ortoconici-cirtoconici; la postura di riposo o nutrizione con apice della conchiglia verso l'alto e l'assunzione di una postura inclinata o suborizzontale di nuoto attivo è compatibile con gli studi sull'idrostatica di questi organismi; anche l'ornamentazione a strie longitudinali è stata verificata su materiale fossile.[54]
+    Ricostruzione di un fondale ordoviciano con alcuni nautiloidi ortoconici-cirtoconici; la postura di riposo o nutrizione con apice della conchiglia verso l'alto e l'assunzione di una postura inclinata o suborizzontale di nuoto attivo è compatibile con gli studi sull'idrostatica di questi organismi; anche l'ornamentazione a strie longitudinali è stata verificata su materiale fossile.[54]
+    Ricostruzione schematica di nautiloidi oncoceratidi (Gomphoceras) a caccia in un ambiente di barriera corallina esterna di età siluriana.[N 11] L'ornamentazione costituita da lineazioni scure a zig-zag su fondo chiaro è caratteristica di forme simili.[53]
+    Ricostruzione schematica di nautiloidi oncoceratidi (Gomphoceras) a caccia in un ambiente di barriera corallina esterna di età siluriana.[N 11] L'ornamentazione costituita da lineazioni scure a zig-zag su fondo chiaro è caratteristica di forme simili.[53]
+    Ricostruzione schematica di nautiloidi ortoceratidi a caccia in un banco di meduse (spiegazione nel testo), sopra una "prateria" sottomarina a crinoidi. La scena è ambientata in un momento imprecisato del Paleozoico Inferiore.[N 12]
+    Ricostruzione schematica di nautiloidi ortoceratidi a caccia in un banco di meduse (spiegazione nel testo), sopra una "prateria" sottomarina a crinoidi. La scena è ambientata in un momento imprecisato del Paleozoico Inferiore.[N 12]
+    Fossili di nautiloidi endoceratidi (Ordoviciano) e ricostruzione delle parti molli. Museo civico di storia naturale di Milano.
+    Fossili di nautiloidi endoceratidi (Ordoviciano) e ricostruzione delle parti molli. Museo civico di storia naturale di Milano.
+
+Riproduzione e ontogenesi
+Forme attuali
+Due esemplari di Nautilus belauensis affrontati. L'approccio che precede la copula inizia così.
+
+I maschi sono più numerosi delle femmine (circa il 75% della popolazione, da osservazioni sulle catture di esemplari per scopi di ricerca)[105], ed entrambi vivono diversi anni dopo il raggiungimento della maturità sessuale. Recenti studi basati sulla ricattura di esemplari contrassegnati hanno indicato che questi animali possono vivere fino a oltre 20 anni. La crescita è lenta (mediamente circa 0,06 mm/giorno)[106] e cessa del tutto al raggiungimento della maturità sessuale.[21]
+
+L'atto riproduttivo e i fattori che lo stimolano (di tipo chimico e tattile) sono poco conosciuti nei dettagli. Curiosamente, da osservazioni in acquario, i maschi appaiono scarsamente in grado di distinguere le femmine e cercano di copulare con qualunque nuovo nautilo introdotto nello stesso acquario (anche di un'altra specie), afferrandone la conchiglia in modo che le aperture corrispondano e disponendosi in posizione di copula per un tempo che va da alcuni minuti a ore, salvo nuotare via se realizzano alla fine che si tratta di un altro maschio. Quando la scelta del partner risulta appropriata ai fini riproduttivi, il maschio afferra la femmina e si pone in una posizione angolata (poiché lo spadice, l'organo copulatorio erettile del maschio, è asimmetrico e si sviluppa da un lato dell'organismo, normalmente sul lato destro), forzando il cappuccio contro quello della partner (che tende a ritrarsi leggermente nella conchiglia). Il maschio trattiene la femmina con i tentacoli per ore e ne morde frequentemente la conchiglia o anche i lembi del mantello esposti con le mascelle a becco (le cicatrici sulla conchiglia femminile sono un indice indiretto della sua attività sessuale). Come gli spermatofori fisicamente vengano prelevati dal sacco spermatoforico del pene e introdotti nell'organo di Valenciennes della femmina non è noto: non è presente una vera e propria eiaculazione come nei cefalopodi più evoluti;[107] dalle osservazioni posteriori all'atto pare comunque non sia mai presente entro l'organo femminile più di uno spermatoforo.[108]
+
+Le uova, simili come forma e dimensioni ad una piccola testa d'aglio (circa due centimetri), consistono in un paio di capsule separate da un sottile spazio riempito di acqua di mare. Lo strato superficiale dell'uovo, bianco e duro ma flessibile, è provvisto di pori che consentono la circolazione dell'acqua di mare tra le capsule. Le uova vengono incollate al substrato dalla femmina tramite una sostanza organica da lei secreta. La maturazione delle uova non è ancora stata osservata in natura; in acquario non è ancora stato possibile ottenerne la schiusa con individui giovanili vitali.[109] Verosimilmente, in natura le uova vengono deposte a profondità relativamente basse (80–100 m). I nautiloidi attuali non hanno uno stadio para-larvale, e gli stadi giovanili non subiscono metamorfosi, a differenza della maggior parte dei cefalopodi attuali. Dopo la schiusa gli esemplari giovanili (che appena nati iniziano subito a nutrirsi predando attivamente crostacei) raggiungono subito acque più profonde, ove possono sottrarsi più facilmente alla predazione.[21] A parte le dimensioni, gli esemplari giovanili sono morfologicamente simili agli adulti, con una conchiglia provvista di fragmocono a 7-9 camere e di una camera di abitazione; i primi 7-8 setti si formano durante lo stadio embrionale, all'interno dell'uovo, e il momento di schiusa è rimarcato da una costrizione della parete della conchiglia occorrente adapicalmente appena prima del margine aperturale e da una riduzione della spaziatura degli ultimi setti embrionali.[110] La strategia riproduttiva dei nautiloidi attuali è di tipo K, con basso tasso di fecondità, basso tasso di crescita, tarda maturità sessuale, lunga vita e bassa densità di popolazione:[111] in Nautilus pompilius (la specie più comune e studiata), il periodo embrionale varia tra 269 e 362 giorni, mentre il raggiungimento della maturità avviene mediamente in 15,5 anni e la durata della vita eccede generalmente i 20 anni (al netto di patologie o eventi di predazione); questo tipo di strategia riproduttiva è quindi sensibile a ritmi di sfruttamento sostenuti come quelli di una pesca industriale, così come a condizioni di stress ambientale.[112]
+Forme estinte
+
+La strategia riproduttiva delle forme estinte pone problemi di non facile soluzione, per ovvi motivi. Nei nautiloidi attuali gli individui giovanili nascono dalle uova con la maggior parte dei caratteri degli adulti (esclusa la capacità riproduttiva). Non vi sono, allo stato attuale delle conoscenze, delle evidenze sicure che nella maggior parte delle forme fossili di Nautiloidea conosciute le condizioni alla nascita e le modalità di sviluppo ontogenetico nelle fasi giovanili fossero molto diverse rispetto alle forme attuali. Anzi, studi sulla distribuzione faunistica dei nautiloidi nel Paleozoico inferiore (Cambriano-Devoniano) indicano un forte provincialismo, con scarsa somiglianza tra le faune rinvenute in depositi pertinenti a masse continentali allora separate. Questo provincialismo è messo in relazione con le limitazioni batimetriche dovute ai limiti meccanici della conchiglia dei nautiloidi e all'assenza di uno stadio para-larvale planctonico capace di dispersione oceanica. Ciò indicherebbe una strategia riproduttiva simile a quella delle forme attuali, con esemplari giovanili simili agli adulti e soggetti alle stesse limitazioni ambientali.[113][N 13] In alcuni casi, però, è documentata la presenza nei sedimenti di accumuli oligotipici (composti cioè da una o pochissime specie), apparentemente poco affetti da fenomeni di trasporto post-mortem, di conchiglie appartenenti a forme giovanili di nautiloidi, che sono stati interpretati come il risultato di eventi di mortalità di massa subito dopo la schiusa. Questo contrasta con l'idea di una riproduzione lenta, con individui neanici in numero limitato, come quella dei nautiloidi attuali, e potrebbe indicare una strategia riproduttiva in qualche caso più simile a quella dei cefalopodi coleoidei moderni (almeno per quanto riguarda il numero degli individui giovanili).[114] La maggior parte degli accumuli di nautiloidi paleozoici, tuttavia, non sembra supportare questa interpretazione: si tratta infatti prevalentemente di accumuli alloctoni, in cui le conchiglie sono state sottoposte a fenomeni di trasporto, con orientazione preferenziale e selezione da parte di onde e correnti marine, mentre nei casi (poco frequenti) di accumuli non soggetti a questi fenomeni le conchiglie dei nautiloidi appaiono in giacitura caotica e risultano mescolati individui di ogni taglia e stadio ontogenetico, sovente in giacitura "telescopica" (con individui di dimensioni ridotte situati dentro la camera d'abitazione o il sifuncolo di individui più grandi).[115]
+
+Anche se non si può parlare di un vero e proprio stadio para-larvale, in diversi casi si ha per l'adulto una diversa morfologia della conchiglia rispetto alle forme giovanili. Talora la trasformazione dei caratteri avveniva attraverso una fase intermedia, definita stadio efebico. La morfologia differente tra le forme giovanili e quelle adulte sembra spesso indicare condizioni di vita diverse per i due stadi. È il caso delle forme lituicone (planispirali nello stadio iniziale e ortocone nell'adulto), tipiche dei Tarphycerida (Ordoviciano-Siluriano): questi si distinguono anche per lo sviluppo di avvolgimenti di tipo eteromorfo[N 14] durante l'ontogenesi (parzialmente svolti o persino tridimensionali); in alcuni generi, come ad esempio Discoceras, l'ontogenesi attraversa diverse fasi in cui l'avvolgimento, e quindi l'orientazione in vita, della conchiglia cambia significativamente indicando una variazione del modo di vita dell'animale: le fasi di avvolgimento regolare (planispirale), in cui la conchiglia era più manovrabile, corrisponderebbero a fasi di vita più francamente nectoniche, mentre le fasi con avvolgimento eteromorfo (in parte svolto) corrisponderebbero ad uno stile di vita demersale, più legato al fondale.[116] Particolare il caso degli Ascocerida (Ordoviciano Medio-Siluriano Inferiore). In questi ultimi lo stadio giovanile, deciduo, era cirtocono e indicava probabilmente uno stile di vita necto-bentonico, mentre lo stadio maturo (definito "ascoceroide") era caratterizzato da una conchiglia globosa e leggera, con poche ampie camere in posizione dorsale, probabilmente correlabile ad uno stile di vita nectonico, simile a quello delle belemniti mesozoiche o dei calamari attuali. In questo caso i setti non avevano un decorso emisferico (come nella maggior parte degli altri nautiloidi), ma sigmoidale, con un sifone molto breve situato in posizione apicale e le camere espanse nella regione dorsale.[117] Un altro caso interessante è quello di numerose forme di Oncocerida e Discosorida, in cui nell'adulto la forma dell'apertura varia notevolmente rispetto alle forme giovanili, riducendosi drasticamente per contrazione o costrizione. Almeno nel caso dei Prhagmoceratidae, le forme giovanili con apertura aperta risultano distribuite nei sedimenti corrispondenti alla parte più interna e meno profonda della piattaforma continentale (shelf), mentre gli adulti con apertura contratta hanno una distribuzione più ampia. Questo indicherebbe una maggiore mobilità degli adulti, con abitudini più marcatamente nectoniche, come sembra indicare anche la migliore resa idrodinamica della conchiglia dopo la costrizione dell'apertura.[118]
+
+    Schema ricostruttivo dell'ontogenesi di nautiloidi del genere Discoceras (Siluriano), appartenenti all'ordine Tarphycerida. In questo caso la conchiglia mostra almeno quattro fasi di variazione dell'avvolgimento durante l'ontogenesi, da planispirale a parzialmente svolta, corrispondenti a diversi stili di vita dell'animale[119]
+    Schema ricostruttivo dell'ontogenesi di nautiloidi del genere Discoceras (Siluriano), appartenenti all'ordine Tarphycerida. In questo caso la conchiglia mostra almeno quattro fasi di variazione dell'avvolgimento durante l'ontogenesi, da planispirale a parzialmente svolta, corrispondenti a diversi stili di vita dell'animale[119]
+    Discoceras boreale. Stadio giovanile planispirale (serpenticono) con inizio di stadio efebico svolto.
+    Discoceras boreale. Stadio giovanile planispirale (serpenticono) con inizio di stadio efebico svolto.
+    Schema ricostruttivo dell'ontogenesi di nautiloidi appartenenti all'ordine Ascocerida, caratterizzati da un netto cambiamento di morfologia della conchiglia durante la transizione (stadio efebico) da forme giovanili a forme mature.[N 15][120]
+    Schema ricostruttivo dell'ontogenesi di nautiloidi appartenenti all'ordine Ascocerida, caratterizzati da un netto cambiamento di morfologia della conchiglia durante la transizione (stadio efebico) da forme giovanili a forme mature.[N 15][120]
+    Schema ricostruttivo dell'ontogenesi di nautiloidi appartenenti all'ordine Discosorida (genere Phragmoceras), caratterizzati dall'acquisizione di una costrizione dell'apertura della conchiglia durante lo stadio efebico.[N 16][121]
+    Schema ricostruttivo dell'ontogenesi di nautiloidi appartenenti all'ordine Discosorida (genere Phragmoceras), caratterizzati dall'acquisizione di una costrizione dell'apertura della conchiglia durante lo stadio efebico.[N 16][121]
+
+Crescita della conchiglia
+
+Nell'attuale Nautilus pompilius la conchiglia si accresce giornalmente per secrezione da parte del mantello di materiale aragonitico lungo il margine aperturale, fino al raggiungimento della maturità sessuale. Il tasso di crescita è stato misurato in 0,05-0,06 mm/giorno.[106][122]
+
+La crescita della conchiglia è stata in passato relazionata anche con fattori esterni, di tipo astronomico. È stata osservata da lungo tempo sul guscio dei nautiloidi la presenza di linee di accrescimento. Studi in proposito hanno stabilito che tali linee sarebbero in numero costante (29-30) tra i setti successivi.[123] Poiché questo numero coincide approssimativamente con il numero dei giorni del mese sinodico (o mese lunare), è stata ipotizzata una relazione tra le lunazioni e i ritmi di crescita dei nautiloidi. Il numero delle linee di crescita tra i setti tuttavia decresce nelle forme fossili, fino a raggiungere il numero di circa 8-9 in esemplari datati all'Ordoviciano. Questa evidenza è stata addotta come indizio del fatto che la durata del mese lunare sia progressivamente aumentata negli ultimi 420 milioni di anni, con l'aumentare della distanza Terra-Luna (la Luna sarebbe stata molto più vicina alla Terra rispetto ad oggi, e il suo movimento orbitale molto più rapido).[124] Questa teoria ha avuto un discreto successo: è stata largamente considerata nell'ultimo trentennio e la si trova ancora citata diffusamente, anche nelle risorse disponibili in rete. Tuttavia, anche alla luce di studi recenti, presenta numerose criticità:
+
+    L'ipotesi di Kahn e Pompea richiede una assunzione di fondo piuttosto impegnativa, e cioè che il tasso di crescita dei nautiloidi fossili mesozoici e paleozoici fosse simile a quello delle forme viventi. Questa assunzione rimane sostanzialmente senza possibilità di verifica.[125]
+    Il ritmo di crescita della conchiglia in realtà non sarebbe costante: vi sarebbero infatti importanti variazioni tra il tasso di crescita della conchiglia nell'intervallo tra due setti successivi e in corrispondenza della formazione dei setti stessi,[126] con variazioni sensibili delle linee di crescita, sia nelle forme estinte che in quelle attuali, e notevole incertezza nel calcolo del tasso di accrescimento delle forme fossili.
+    Più recentemente,[122] il tempo di crescita dell'attuale N. pompilius è stato misurato direttamente tramite l'uso di tecniche di radioscopia su esemplari viventi a vari stadi ontogenetici in acquario. In base ai risultati di questo studio, la formazione di nuovi setti avviene in un periodo di tempo uguale a 150 ± 5 giorni, periodicità che non mostra coincidenze significative rispetto ai ritmi lunari.
+
+Considerati quindi gli ampi margini di interpretazione e di incertezza, questa ipotesi mantiene dei forti elementi di dubbio.
+Storia evolutiva
+Paleozoico
+Distribuzione stratigrafica dei Nautiloidea (sensu lato). Gli spessori delle barre di distribuzione sono proporzionali alla frequenza delle famiglie note per i periodi e sottoperiodi indicati.[127]
+
+I primi nautiloidi compaiono nel Cambriano Superiore, nell'attuale Cina nord-orientale (Manciuria), con forme riferibili agli ordini Plectronocerida ed Ellesmerocerida. Queste forme si ritengono derivate da forme affini ai monoplacofori, probabilmente simili agli Hypseloconidae (rinvenuti dal Cambriano Superiore all'Ordoviciano Inferiore) dotati di conchiglia conica poco sviluppata, in qualche caso con setti, e in particolare al genere Knightconus YOCHELSON, FLOWER & WEBERS, 1989.[128][129]
+
+L'origine da forme simili ai monoplacofori sembra confermata anche da recenti studi embriologici condotti in acquario su esemplari di N. pompilius.[130] Secondo i risultati di questo studio gli individui embrionali si sviluppano inizialmente secondo un piano di simmetria bilaterale allungato in senso antero-posteriore (cioè sviluppato lungo un asse allungato, con un lato anteriore e un lato posteriore), analogo a quello dei monoplacofori e dei gasteropodi più primitivi, che comprende il compartimento cefalico, il mantello, il sacco viscerale e il piede (ancora indifferenziato). I tentacoli derivano da più serie di semplici escrescenze disposte lungo il piede secondo l'asse antero-posteriore del corpo. Con lo sviluppo successivo dell'embrione il piede dà origine poi ai tentacoli veri e propri e all'iponomo, mentre il capo si differenzia definitivamente. In questo caso, l'ontogenesi (lo sviluppo dell'individuo) appare ricapitolare (cioè ripercorrere) la filogenesi (l'evoluzione del gruppo).
+
+Parallelamente all'evoluzione dei tessuti viventi, si ha l'evoluzione della conchiglia con lo sviluppo di setti. Non è possibile dire con sicurezza se negli Hypseloconidae le camere definite dai setti fossero piene di gas, di acqua o di altro liquido, ma è verosimile che, come in tutti i molluschi, i setti fossero secreti dal mantello (essendo parte integrante della conchiglia). È possibile che quest'ultimo possedesse la funzione di scambio osmotico e la capacità di sviluppare fluidi (forse più probabilmente liquidi) per riempire le camere durante le fasi di formazione dei setti.[131]
+
+Lo sviluppo di setti multipli d'altro canto sarebbe connesso all'evoluzone di forme con conchiglia conica elevata con incremento del rapporto tra volume e superficie dell'apertura, e parallelamente alla torsione della massa viscerale, dalle forme primitive di monoplacofori ai primi veri cefalopodi, con la necessità di rinforzare la conchiglia e di ottenere un migliore "contenimento" del corpo vivente del mollusco.[132] In questo quadro, speculativamente, lo sviluppo del sifuncolo (mai osservato nei monoplacofori) potrebbe essere dovuto alla presenza di un lembo di tessuto vivente attaccato alla parte apicale della conchiglia, intorno al quale il materiale minerale dei setti successivi non poteva essere depositato, il che avrebbe avuto come conseguenza lo sviluppo di una serie di setti perforati in contatto con il tessuto del mantello (una sorta di "pre-sifuncolo");[N 17] la specializzazione del tessuto sifunculare per la generazione e la regolazione dei fluidi camerali sarebbe un'evoluzione conseguente.[133] Non sono documentate peraltro forme intermedie tra gli Hypseloconidae, con setti imperforati, e i primi veri cefalopodi, con setti perforati e una vera struttura sifuncolare.[134]
+
+Nei primi veri Nautiloidea (Plectronocerida), lo sviluppo del sifuncolo dal mantello, consentendo la regolazione della pressione dei fluidi endocamerali, permette l'utilizzo della parte concamerata della conchiglia (fragmocono) come un vero e proprio organo di galleggiamento. I Plectronocerida sono però decisamente primitivi, con conchiglia brevicona (ortocona o cirtocona endogastrica, a curvatura poco pronunciata) e setti molto ravvicinati; poiché è improbabile che il gas contenuto nelle camere fosse sufficiente a favorire il nuoto,[135] sono stati ricostruiti come forme bentoniche mobili ma non ancora interamente nectoniche (quindi in parte simili a gasteropodi o monoplacofori), con un piede poco differenziato e probabilmente tentacoli primitivi.[136][137] Queste forme probabilmente in posizione di vita erano orientate con l'apertura verso il basso e l'apice della conchiglia verso l'alto, e deambulavano mediante il piede e i tentacoli[138] (che avrebbero potuto anche già svolgere funzione di organi di senso e/o di strutture nutritive), utilizzando la limitata possibilità di galleggiare per facilitare gli spostamenti verticali e sfuggire ai predatori. La frammentarietà dei reperti[139] non consente di affermare con sicurezza se queste forme siano provviste di seno iponomico, ma questo elemento non è necessariamente relazionato con la presenza effettiva dell'iponomo;[140] in alcune ricostruzioni recenti[141] il possibile iponomo è posizionato posteriormente, risultando in un getto volto all'indietro e in un movimento in avanti (differentemente rispetto alla maggior parte dei nautiloidi più avanzati).
+
+Gli Ellesmerocerida si sviluppano probabilmente dai Plectronocerida, e presentano caratteri più evoluti: conchiglia e fragmocono più sviluppati e un seno iponomico ben caratterizzato,[142] connessi ad uno stile di vita necto-bentonico. Queste forme sono comunque di dimensioni ridotte (da alcuni millimetri ad alcuni centimetri) e poco frequenti. Entro la parte terminale del Cambriano, si verifica in prevalenza l'estinzione di queste forme primitive e di tutti i Plectronocerida: pochissime si rinvengono in sedimenti di tardo-cambriani e riferibili alla base dell'Ordoviciano.[143]
+Approfondimento: il supporto ad altre forme di vita
+Conchiglia spiaggiata di Nautilus attuale colonizzata da cirripedi e piccoli bivalvi (mentre l'animale era in vita o durante la fase "necroplantonica" di galleggiamento post-mortem). Durante il Paleozoico inferiore gli epibionti più comuni sule conchiglie dei nautiloidi erano briozoi, crinoidi e bivalvi.
+Nel Paleozoico inferiore l'abbondanza e la diversità delle forme appartenenti a questo gruppo di fatto condizionavano l'intera comunità bentonica, con la presenza di accumuli di conchiglie di nautiloidi che ne costituivano letteralmente il substrato.[144] Le conchiglie degli esemplari morti fornivano il supporto per organismi sessili, come i bivalvi epibissati del genere Cardiola,[144] crinoidi e briozoi.[145] Le conchiglie dei cefalopodi potevano anche essere colonizzate quando l'animale era in vita o post-mortem quando la conchiglia galleggiava sotto la spinta dei gas interni (come è verificato per le conchiglie dei nautiloidi attuali).[146] La dispersione geografica delle conchiglie dei cefalopodi dovuta al trasporto post-mortem ("necro-planctonico") è considerata da diversi autori[147] un elemento di notevole importanza come supporto a comunità di organismi incrostanti come serpulidi, balanidi, bivalvi (ostreidi) e briozoi,[148] facilitandone quindi la dispersione passiva in vita e conseguentemente la diffusione. Questa ipotesi si basa in gran parte sulla constatazione che l'areale di rinvenimento di conchiglie spiaggiate o flottanti di nautiloidi attuali (soprattutto Nautilus pompilius, la specie di gran lunga più diffusa) è considerevolmente più vasto rispetto alle popolazioni viventi conosciute,[149] arrivando fino alle coste del Giappone a nord, verso ovest fino alle coste orientali del subcontinente indiano (India e Madagascar) e alle coste orientali di Africa e Madagascar,[N 18] e verso sud-est fino alle coste della Nuova Zelanda.
+
+Durante l'Ordoviciano inferiore (Tremadociano) si ha una nuova differenziazione degli Ellesmerocerida, seguita da radiazione esplosiva del gruppo, con una diffusione a scala globale (Nord America, Europa settentrionale, Siberia e Cina)[150] e dalla comparsa di nuovi ordini, tutti connessi filogeneticamente ai precedenti, che tocca il suo acme nel Floiano (Arenigiano) e soprattutto nell'Ordoviciano medio, in cui sono ormai presenti quasi tutti gli ordini ad eccezione dei Nautilida, mentre si ha una riduzione progressiva degli Ellesmerocerida: compaiono depositi endosifonali e camerali (assenti o molto ridotti nelle forme primitive) e forme di conchiglia con avvolgimento (sia endo- che esogastrico).[151] Questa diffusione è forse connessa al cambiamento faunistico generalizzato avvenuto alla transizione cambro-ordoviciana, dopo gli eventi di estinzione tardo-cambriani,[151] con la conseguente liberazione di nuove nicchie ecologiche. Le nuove forme tendono a occupare nuovi ambienti e a sviluppare nuovi adattamenti, come risulta dall'estrema varietà di dimensioni, tipi di avvolgimento e strutture interne. Nel corso dell'Ordoviciano, i nautiloidi conquistano progressivamente da un lato la piattaforma continentale più profonda, dall'altro le aree di piattaforma carbonatica vera e propria (facies di reef e laguna), in progressiva espansione dopo la crisi tardo-cambriana, con la fioritura delle comunità a briozoi e coralli. Inoltre, raggiungono con alcune forme di Endocerida (genere Cameroceras) le massime dimensioni (fino a 5-9 m circa). In questo periodo i nautiloidi, con particolare riferimento agli Endocerida e Actinocerida, sono tra le forme di vita dominanti, anche per dimensioni, e tra i predatori di maggior successo.[152][88]
+
+I nautiloidi nel Paleozoico inferiore non sono in generale forme nectoniche capaci di dispersione oceanica (con la parziale eccezione degli Ascocerida). In maggioranza, si tratta di forme legate inizialmente (Cambriano superiore-Ordoviciano Inferiore) alla parte meno profonda della piattaforma continentale (shelf), a sedimentazione carbonatica e mista (terrigeno-carbonatica).[113]
+
+Nel Siluriano, permane una buona differenziazione, tuttavia, verso la fine del periodo avviene l'estinzione di alcuni ordini (Endocerida, Ellesmerocerida, Tarphycerida, Ascocerida).[153] Questa prima crisi è verosimilmente da mettere in relazione ad una crisi biologica generalizzata dovuta ad un raffreddamento climatico estremo e ad una fase di regressione marina, in conseguenza di un evento glaciale. D'altro canto, il declino progressivo dei nautiloidi Paleozoici dal Siluriano è concomitante con la comparsa e diffusione sempre maggiore dei placodermi e dei primi veri pesci, predatori veloci ed efficienti, dotati di mascelle e pinne pari,[103] anche se non vi sono evidenze dirette di predazione attiva di nautiloidi da arte di squaliformi prima del Carbonifero superiore.[154]
+
+Nel Siluriano e nel Devoniano Inferiore i sedimenti calcarei a cefalopodi, noti storicamente in letteratura sotto il nome collettivo di "calcari a Orthoceras", sono tra le facies marine più diffuse e ben documentate in tutto il mondo. Si tratta di calcari da micritici a calcarenitici (in funzione dell'energia delle acque e quindi della profondità), di ambiente neritico, spesso di colore scuro per la presenza diffusa di materia organica, spesso letteralmente pieni di conchiglie fossili di nautiloidi (fra i quali prevalgono le forme ortocone, da cui il nome storico), associate a bivalvi pelagici e a Graptoliti; durante questo periodo, le facies di piattaforma carbonatica si sviluppano ulteriormente, e i nautiloidi ne costituiscono una componente importante, almeno fino alla crisi biologica nel Devoniano Superiore.[155]
+
+Nel Devoniano si differenziano i primi Nautilida, con forme in parte già simili a quelle moderne, probabilmente originandosi da forme esogastriche di Oncocerida.[156] Nel Devoniano Superiore, al passaggio tra Frasniano e Famenniano, in concomitanza con una crisi biologica generalizzata, si verifica l'estinzione o l'inizio di un rapido declino per la maggior parte degli ordini paleozoici, che non superano il Carbonifero ad eccezione di Orthocerida e Nautilida.[157] Questa riduzione potrebbe essere almeno in parte correlabile anche alla comparsa e allo sviluppo nel Devoniano e nel Carbonifero degli Ammonoidea,[158] derivati con ogni probabilità dai Nautiloidea attraverso forme ortocone con setti ondulati e sifone marginale (Bactritidae).[159] Nel Carbonifero e nel Permiano, i nautiloidi devono subire la concorrenza sempre più forte degli Ammonoidea (soprattutto i Goniatitina), che gradualmente conquistano tutti gli ambienti in cui vivono anche i nautiloidi.[160]
+
+    Schema dell'evoluzione tardo-cambriana dei nautiloidi, da forme (a) simili ai monoplacofori (Hypseloconidae), con setti ma ancora prive di sifone, a (b) nautiloidi primitivi (Plectronocerida) e a (c) nautiloidi con tutti i caratteri del gruppo (Ellesmerocerida). Nello schema è evidenziata la parte settata (fragmocono) della conchiglia.[N 19]
+    Schema dell'evoluzione tardo-cambriana dei nautiloidi, da forme (a) simili ai monoplacofori (Hypseloconidae), con setti ma ancora prive di sifone, a (b) nautiloidi primitivi (Plectronocerida) e a (c) nautiloidi con tutti i caratteri del gruppo (Ellesmerocerida). Nello schema è evidenziata la parte settata (fragmocono) della conchiglia.[N 19]
+    Modello interno di Nautiloide Ortoceratide dall'Ordoviciano Superiore del Kentucky (USA). È visibile il decorso del sifone e delle camere del fragmocono.
+    Modello interno di Nautiloide Ortoceratide dall'Ordoviciano Superiore del Kentucky (USA). È visibile il decorso del sifone e delle camere del fragmocono.
+    Diversi esempi di nautiloidi ortoceratidi, ortoconi e cirtoconi. Modelli interni di fragmocono, parzialmente riempiti di calcite spatica. Nelle immagini sulla destra sono visibili particolari delle superfici settali con la traccia del sifone in posizione sub-centrale.[N 20] Siluriano terminale-Devoniano Inferiore da Erfoud (Marocco).
+    Diversi esempi di nautiloidi ortoceratidi, ortoconi e cirtoconi. Modelli interni di fragmocono, parzialmente riempiti di calcite spatica. Nelle immagini sulla destra sono visibili particolari delle superfici settali con la traccia del sifone in posizione sub-centrale.[N 20] Siluriano terminale-Devoniano Inferiore da Erfoud (Marocco).
+    Esempio tipico di calcare a Orthoceras (lastra lucidata) dal Siluriano del Marocco.
+    Esempio tipico di calcare a Orthoceras (lastra lucidata) dal Siluriano del Marocco.
+    Lastra lucidata di calcare a Clymenia (Devoniano superiore). In questo caso abbiamo sia nautiloidi ortoceratidi che ammonoidi primitivi.
+    Lastra lucidata di calcare a Clymenia (Devoniano superiore). In questo caso abbiamo sia nautiloidi ortoceratidi che ammonoidi primitivi.
+
+Mesozoico
+Proclydonautilus (Cosmonautilus) dilleri Hyatt e Smith, 1905, forma con pattern suturale complesso dal Triassico superiore (Norico) di Timor (Indonesia).
+
+Solo pochi rappresentanti di Orthocerida e Nautilida sopravvivono alla crisi permo-triassica; successivamente, i Nautilida si espandono nuovamente nel Triassico medio-superiore (fino al Norico),[161] anche con forme a sutura complessa (famiglia Clydonautilidae),[162] di tipo molto simile alle suture goniatitiche di ammonoidi paleozoici. I nautiloidi sono però duramente colpiti dalla crisi, relativamente meno importante della precedente, avvenuta al passaggio Triassico-Giurassico e sopravvivono apparentemente con un unico genere (Cenoceras).[163] Quanto ai nautiloidi ortoceratidi, occorre precisare che fino alla fine del secolo scorso sono stati ritenuti estinti entro il tardo Triassico, per l'assenza di ritrovamenti nei periodi successivi. In realtà, recentemente[164] è stato rinvenuto un nautiloide ortocono[N 21] con spiccate affinità verso gli Orthocerida in sedimenti del Cretacico inferiore (Aptiano) di area caucasica, sicuramente coevo alla fauna ad ammoniti proveniente dagli stessi strati, dimostrando quindi la sopravvivenza di questo gruppo, sia pure con scarsa diffusione ed estensione areale e temporale ancora non chiaramente definita. D'altro canto, i Nautilida recuperano e mantengono una buona differenziazione a livello di genere per tutto il Giurassico e il Cretaceo, mostrando la tendenza a partire dal Cretacico inferiore a sviluppare forme con suture piuttosto complesse, marcatamente ondulate e angolose (Hercoglossidae)[N 22] accanto a forme con suture semplici.[165]
+Cenozoico
+
+I nautiloidi passano praticamente indenni la crisi tra Cretaceo e Terziario (fatale invece per le più specializzate ammoniti) e si differenziano ulteriormente dal Paleocene al Miocene, con la diffusione a livello mondiale di nuove forme a sutura complessa (Aturiidae)[N 23], verosimilmente occupando in parte nicchie ecologiche lasciate libere dall'estinzione degli Ammonoidea. Successivamente (Pliocene-Attuale), con il raffreddamento generalizzato del clima, i Nautilida subiscono un nuovo declino fino ai soli attuali due generi rappresentanti, a sutura relativamente semplice. D'altro canto, gli studi citati sul genere Allonautilus[166] fanno pensare che il processo di speciazione sia tuttora in atto tra i nautiloidi, e che quindi questo gruppo sia ancora piuttosto vitale.
+Nautiloidi fossili in Italia
+Germanonautilus sp.; esemplare dal Triassico Medio (Anisico) delle Prealpi lombarde (Calcare di Prezzo); a-b) vedute laterali; c) veduta ventrale.
+Aturia sp., dall'Eocene della Puglia. Nell'esemplare, un fragmocono, è visibile la sutura di tipo simile alle suture goniatitiche.
+
+In Italia i nautiloidi sono presenti solo allo stato fossile, in rocce sedimentarie che vanno dal Siluriano al Miocene.
+Paleozoico
+
+In Italia si rinvengono nautiloidi fossili nelle successioni paleozoiche carbonatiche della Sardegna sud-occidentale (Iglesiente), datate al Siluriano Superiore,[167] e della Carnia, ove sono state segnalate prevalentemente in termini stratigrafici del Siluriano.[168] Sono presenti inoltre nei sedimenti carbonatici del Permiano della Val Gardena (Formazione a Bellerophon), in Trentino,[169] e in Sicilia (Valle del Sosio).[170]
+Mesozoico
+
+Nautiloidi ortoconi sono ancora presenti nei sedimenti triassici del sudalpino, soprattutto in facies di piattaforma carbonatica.[171] Forme planispirali (abbastanza simili alle attuali) sono state rinvenute principalmente in sedimenti bacinali intra-piattaforma.[172]
+
+Nel Giurassico, i nautiloidi sono segnalati soprattutto in sedimenti bacinali e divengono abbastanza frequenti (anche se molto meno delle ammoniti) nelle facies di Rosso Ammonitico, diffuse dalla parte terminale del Giurassico Inferiore a tutto il Giurassico Superiore, in tutta l'Italia (Sardegna esclusa).[173]
+
+Nel Cretacico i rinvenimenti in facies di bacino sono molto meno frequenti e piuttosto sporadici, come del resto per gli altri cefalopodi, probabilmente per condizioni ambientali e deposizionali (relative alla tipologia di depositi e alle modalità di sedimentazione) meno favorevoli alla loro fossilizzazione. In questo periodo infatti in Italia si sedimentano prevalentemente facies torbiditiche, con elevato tasso di sedimentazione, e facies emipelagiche depostesi a profondità elevata, superiore alla profondità di compensazione dell'aragonite o ACD (Aragonite Compensation Depth),[N 24] oppure facies di piattaforma carbonatica in cui i nautiloidi di quel periodo non vivevano. Nelle Alpi meridionali sono tuttavia presenti nautiloidi (associati ad ammoniti) in alcuni livelli emipelagici.[174] In Sardegna orientale (Barbagia e Ogliastra) e occidentale (Nurra) si hanno sedimenti pelagici con nautiloidi.[175]
+Cenozoico
+
+Sono segnalati diffusamente nautiloidi del genere Aturia nei sedimenti marini emipelagici dell'Eocene e dell'Oligo-Miocene, dal margine sudalpino, nella Gonfolite[176] e nel bacino veneto-friulano[177] al bacino terziario ligure-piemontese,[178] all'Appennino meridionale e in Puglia,[179] in facies marine trasgressive.
+Aspetti economico-culturali
+Interesse per la pesca
+Nautilus nell'acquario di Berlino. Le strie nerastre radiali rimarcano gli stadi di crescita della conchiglia successivi alla messa a dimora in acquario; la cicatrice a partire dalla quale compaiono le strie segna lo shock della cattura e del trasporto dell'animale.
+
+Le specie attuali hanno interesse commerciale soprattutto per la conchiglia, per la maggior parte da esemplari spiaggiati. Vengono tuttavia pescate artigianalmente dalle popolazioni rivierasche locali della zona indo-pacifica, per le quali almeno due specie hanno valore commerciale per la pesca. I nautili della specie N. macromphalus vengono catturati vivi in Nuova Caledonia, a profondità di circa 65 m lungo la scarpata esterna dei reef; viene invece catturato per mezzo di trappole nel Mar dei Coralli a 300-400 m di profondità. Esemplari di N. pompilius vengono catturati mediante trappole di bambù intrecciato piazzate a profondità da 60 a 240 m. La loro carne è venduta in mercati locali e i gusci, se in buone condizioni, alimentano il mercato delle conchiglie. Talvolta lo strato superficiale viene rimosso e la conchiglia viene lucidata per evidenziare la parte madreperlacea. In qualche caso, la conchiglia viene sezionata lungo la sezione spirale per mettere in luce le strutture interne (setti e colletti sifonali).
+
+Esemplari di Nautilus sono spesso presenti in acquari pubblici e privati; le specie più comunemente tenute in cattività sono N. macromphalus (il primo esposto in un acquario pubblico nel 1958, nell'acquario di Noumea, Nuova Caledonia), N. belauensis e N. pompilius.[180] Non è facile mantenere queste forme in acquario, dove hanno diversi problemi di assetto, in quanto tendono a galleggiare in superficie senza poter controllare la profondità, per la formazione di bolle d'aria sotto il cappuccio o entro gli occhi,[181] (la cui pupilla aperta, priva di lente e cristallino, li espone anche frequentemente a infezioni oculari); è frequente anche il cannibalismo tra individui tenuti nello stesso acquario (soprattutto verso gli esemplari giovanili).[182] La sopravvivenza in acquario è molto variabile, tra poche centinaia e poco più di un migliaio di giorni ed è maggiore nel caso di acquari di tipo aperto rispetto ai sistemi di tipo chiuso.[183] Gli esemplari catturati e messi in acquario sviluppano rapidamente una colorazione nera del labbro dell'apertura della camera d'abitazione, che con la crescita dell'animale risulta in una serie irregolare di strie nerastre radiali (talora questa colorazione anomala si estende alle parti interne esposte della camera d'abitazione); a parte il degrado dell'estetica della conchiglia e, per gli esemplari giovanili, una maggiore sottigliezza e fragilità del materiale conchigliare cresciuto successivamente alla messa a dimora in acquario, non sembrano esservi danni alla salute dell'animale.[184] In altri casi, si ha una decolorazione del cappuccio, connessa con un declino della salute dell'animale stesso.[185] I nautili in cattività possono essere nutriti con una certa varietà di cibo, che include crostacei (gamberetti e granchi, morti, in pezzi o anche vivi, zampe e frammenti di carapace di crostacei più grandi, come aragoste) e carne di pesce; curiosamente, non sembrano gradire carne di calamaro, e non sono finora stati osservati attaccare pesci vivi di piccola taglia introdotti in acquario.[186] Anche se i nautili in acquario si accoppiano e producono uova, finora in nessun caso si sono potuti ottenere individui neanici vitali dalle uova deposte, che risultano per la maggior parte infertili e con anomalie.[187] Esemplari vivi di Nautilus pompilius (la specie più comune) sono commerciabili dal 1980 nelle Filippine, al costo approssimativo (al 2009) di un centinaio di dollari l'uno.[188] Altre specie non sono normalmente disponibili al pubblico (eccetto che per istituti di ricerca). Gli esemplari richiedono però condizioni di trasporto particolari (in contenitori appositi con acqua marina ossigenata costantemente e un sistema di raffreddamento) e, per destinazioni lontane dai siti di provenienza, trasporto via cargo aereo per abbreviare il più possibile il viaggio.[189]
+Interesse storico e artistico
+
+La conchiglia delle specie attuali ha sempre attirato l'attenzione dell'uomo per la sua struttura armoniosa. La prima descrizione naturalistica di nautilo viene fatta risalire ad Aristotele, nella sua Historia animalium (circa 343 a.C.). Nel Libro IV, ove tra gli altri parla diffusamente e con una certa precisione dei cefalopodi, l'autore descrive un animale chiamato nautilos (ναυτίλος[N 25]) che si trova entro una conchiglia costata come quella dei pettinidi[N 26] ma non bivalve, di forma ovoidale[N 27], specificando che quando questo animale viene spiaggiato si stacca dalla conchiglia e muore. Ne descrive subito dopo un altro simile, che abita dentro una conchiglia come una chiocciola, e vi rimane dentro senza mai uscirne allungando fuori di tanto in tanto i suoi tentacoli:[190][191]
+(GRC)
+
+«Ἔτι δ' ἄλλοι δύο ἐν ὀστρείοις, ὅ τε καλούμενος ὑπό τινων ναυτίλος καὶ ποντίλος, ὑπ' ἐνίων δ' ᾠὸν πολύποδος· τὸ δ' ὄστρακον αὐτοῦ ἐστιν οἷον κτεὶς κοῖλος καὶ οὐ συμφυής. Οὗτος νέμεται πολλάκις παρὰ τὴν γῆν, εἶθ' ὑπὸ τῶν κυμάτων ἐκκλύζεται εἰς τὸ ξηρόν, καὶ περιπεσόντος τοῦ ὀστρέου ἁλίσκεται καὶ ἐν τῇ γῇ ἀποθνήσκει. [...]. Καὶ ἄλλος ἐν ὀστράκῳ οἷον κοχλίας, ὃς οὐκ ἐξέρχεται ἐκ τοῦ ὀστράκου, ἀλλ' ἔνεστιν ὥσπερ ὁ κοχλίας, καὶ ἔξω ἐνίοτε τὰς πλεκτάνας προτείνει.[2]»
+(IT)
+
+«Ancora ve ne sono altri due che si trovano in una conchiglia, l’uno che a detta di alcuni viene chiamato nautilos e anche pontilos, a detta di altri "uovo di polpo"; la sua conchiglia è come una concava valva di pettine, ma non connessa (a un’altra). Questo pastura sovente vicino a riva, e può essere gettato dalle onde all’asciutto, e in tal caso viene rinvenuto staccato dalla conchiglia e muore sulla terraferma. […] E ve n’è un altro in una conchiglia simile a una chiocciola, il quale non esce dalla conchiglia, ma vi sta dentro appunto come la chiocciola, e protende talvolta fuori i tentacoli.»
+
+(Aristotele, Historia animalium, libro IV § I.)
+
+L'identificazione di queste descrizioni con il nautilo è peraltro piuttosto discutibile: la prima è in realtà una descrizione, abbastanza precisa per il contesto dell'epoca, dell'argonauta, sempre un cefalopode, presente nel Mediterraneo e dotato di una sottile pseudo-conchiglia con una fine ornamentazione a coste e nodi che serve da ooteca, secreta solo dalla femmina, il cui corpo non è solidale alla stessa. La seconda è molto scarna e si potrebbe forse adattare al nautilo in senso proprio solamente per il fatto che l'animale vi appare rinchiuso e solidale alla conchiglia (forse una conchiglia spiraliforme e liscia, vista la similitudine proposta con la chiocciola), e ne esce solo con i tentacoli. D'altra parte, è stato osservato che Aristotele potrebbe aver visto conchiglie di nautilo portate in occidente dall'Asia, ma è improbabile che ne abbia potuto vedere le parti molli, e tantomeno un nautilo vivo[192] (anche se è possibile, per quanto non documentato, che abbia sentito o letto descrizioni dell'animale da parte di viaggiatori). Plinio il Vecchio nella Naturalis Historia (77-78 d.C) parla di un animale marino, chiamato nautilos o pompilos, la cui descrizione appare però ugualmente più conforme all'argonauta.[193] La citazione estesa è:[194]
+(LA)
+
+«Inter praecipua autem miracula est qui vocatur nautilos, ab aliis pompilos. Supinus in summa aequorum pervenit, ita se paulatim adsubrigens, ut emissa omni per fistulam aqua velut exoneratus sentina facile naviget. Postea prima duo brachia retorquens membranam inter illa mirae tenuitatis extendit, qua velificante in aura, ceteris subremigans brachiis, media se cauda ut gubernaculo regit.Ita vadit alto Liburnicarum gaudens imagine, si quid pavoris interveniat, hausta se mergens aqua.»
+(IT)
+
+«Però tra le principali meraviglie vi è quello che da alcuni è chiamato nautilos e da altri pompilos: giunge supino sino alla superficie dell’acqua, risalendo poco alla volta, così naviga agevolmente, come alleggerito della sentina, dato che ha espulsa l’acqua attraverso il sifone.[N 28] Successivamente, allargando i primi due tentacoli, tende fra di essi una membrana di una sottigliezza mirabile, con la quale veleggia al vento, remando con gli altri tentacoli, e pilota usando la parte media della coda come un timone. Così naviga in alto mare, gaudente immagine di nave Liburnica, immergendosi, se interviene qualche timore, dopo aver incamerato acqua.»
+
+(Plinio il Vecchio, Naturalis historia, libro IX § 88.)
+
+Per quanto la descrizione del meccanismo di variazione del galleggiamento (seppure errata) ricordi sorprendentemente quella del nautilo, l'allusione ai due tentacoli "anteriori" dotati di membrana (anche se Plinio ne equivoca l'esatta anatomia e la funzione)[N 29] è decisiva per l'identificazione con Argonauta. Va detto anche che in queste descrizioni antiche non vi è alcun riferimento ai setti e alle complesse strutture interne della conchiglia nautiloide: nella conchiglia del nautilo almeno l'ultimo setto e la relativa perforazione del sifuncolo sono ben visibili dall'esterno, ed è strano che siano sfuggiti a osservatori come Aristotele e Plinio, come pure che essi non abbiano visto conchiglie rotte o sezionate. I primi esemplari di conchiglie di nautilo potrebbero essere giunti in Europa, forse fin dall'antichità, attraverso le vie commerciali asiatiche o forse da esemplari rinvenuti spiaggiati sulle coste dell'Africa orientale e del Madagascar, portati dalle correnti oceaniche (anche se non si hanno riscontri in letteratura). In ogni caso, nella letteratura naturalistica il termine nautilos o nautilus è stato usato, anche in seguito, per descrivere qualcosa che può adattarsi tanto al nautilo in senso stretto che all'argonauta, e comunque non distingue tra le due forme.[193][N 30] La prima raffigurazione che associa correttamente il termine nautilus alla relativa conchiglia risale al 1555, ad opera del naturalista francese Pierre Belon (1517-1564).[195] La prima raffigurazione dettagliata della conchiglia e (piuttosto approssimativa) delle parti molli, corredata di una descrizione, è di Georg Eberhard Rumphius (1627-1702), naturalista olandese ed è stata pubblicata postuma nel 1705.[196] La formalizzazione del nome scientifico (Nautilus pompilius) è del 1758, ad opera di Carl von Linné (Linneo). Linneo nomina la specie in omaggio evidentemente al passo citato di Plinio, adattando con desinenza latina i termini nautilos e pompilos (che però, curiosamente, si riferiscono in realtà a un taxon diverso).
+
+Molte conchiglie ben conservate vennero utilizzate dal Rinascimento in poi per creare capolavori di oreficeria incastonandole in argento per creare coppe da esibire su tavole riccamente addobbate. Dipinti dal XVI al XVIII secolo riportano sovente nature morte con tali elementi. Anche attualmente le conchiglie, al naturale o levigate in modo da evidenziare lo strato interno madreperlaceo, spesso sezionate per mostrare l'architettura interna delle camere e del sifuncolo, vengono vendute in negozi specializzati o mostre-mercato per scopi ornamentali.
+
+Le forme estinte alimentano ovviamente il mercato di nicchia dei fossili, ove sono tuttavia generalmente meno diffuse rispetto alle ammoniti. I calcari a Orthoceras sono tuttavia molto apprezzati come pietra ornamentale, in forma di lastre levigate per costituire ripiani di mobili o sanitari e per oggettistica minuta (placchette ornamentali) o vasellame di arredo, grazie alla bellezza e alla suggestione delle strutture interne delle conchiglie nautiloidi visibili in sezione. La cavatura industriale di questo tipo di roccia è molto sviluppata in Marocco (area di Erfoud) e nel sud della Svezia.[197]
+
+Infine, il nautilo, per le sue caratteristiche di galleggiamento e la sua forma che ricorda uno scafo, ha ispirato da alcuni secoli i nomi di vari tipi di imbarcazioni, in particolare sommergibili, anche in letteratura (si pensi al sommergibile del Capitano Nemo in Ventimila leghe sotto i mari, di Jules Verne).
+
+    Illustrazione naturalistica di argonauta del 1879, spesso cofuso in passato col nautilo, anche dal punto di vista terminologico. L'illustrazione descrive correttamente l'anatomia esterna dell'animale. Notare i due tentacoli dotati di membrane sviluppate che secernono la conchiglia.
+    Illustrazione naturalistica di argonauta del 1879, spesso cofuso in passato col nautilo, anche dal punto di vista terminologico. L'illustrazione descrive correttamente l'anatomia esterna dell'animale. Notare i due tentacoli dotati di membrane sviluppate che secernono la conchiglia.
+    Conchiglia di Nautilus montata a coppa, completata in argento in forma di gallina (circa 1550; Kunsthistorisches Museum, Vienna).
+    Conchiglia di Nautilus montata a coppa, completata in argento in forma di gallina (circa 1550; Kunsthistorisches Museum, Vienna).
+    Due nicchi di Nautilus, decorati a mano e montati su base in argento cesellato e parzialmente dorato. Germania, (Augusta) XVII secolo
+    Due nicchi di Nautilus, decorati a mano e montati su base in argento cesellato e parzialmente dorato. Germania, (Augusta) XVII secolo
+    Natura morta (particolare) del pittore olandese Willem Claesz Heda (1594-1680), con conchiglia di Nautilus montata a coppa.
+    Natura morta (particolare) del pittore olandese Willem Claesz Heda (1594-1680), con conchiglia di Nautilus montata a coppa.
+    Artemisia riceve le ceneri di Mausolo, di Rembrandt[N 31] (circa 1634). La coppa è chiaramente una conchiglia di nautilo smerigliata con ornamenti in metallo.
+    Artemisia riceve le ceneri di Mausolo, di Rembrandt[N 31] (circa 1634). La coppa è chiaramente una conchiglia di nautilo smerigliata con ornamenti in metallo.
+    Artemisia riceve le ceneri di Mausolo, di Rembrandt. Particolare della coppa di nautilo.
+    Artemisia riceve le ceneri di Mausolo, di Rembrandt. Particolare della coppa di nautilo.
+    Teiera in ceramica di forma ispirata ad una conchiglia di nautilo. Germania, 1710-1720.
+    Teiera in ceramica di forma ispirata ad una conchiglia di nautilo. Germania, 1710-1720.
+    Conchiglie di nautilo smerigliate e recanti incisioni commemorative dedicate all'ammiraglio Horatio Nelson. XIX secolo. Monmouth Museum (Galles).
+    Conchiglie di nautilo smerigliate e recanti incisioni commemorative dedicate all'ammiraglio Horatio Nelson. XIX secolo. Monmouth Museum (Galles).
+    La conchiglia del nautilo si avvolge secondo una spirale logaritmica, le cui proprietà geometriche sono state analizzate, tra gli altri, da Cartesio e Jakob Bernoulli.
+    La conchiglia del nautilo si avvolge secondo una spirale logaritmica, le cui proprietà geometriche sono state analizzate, tra gli altri, da Cartesio e Jakob Bernoulli.
+    Una delle proprietà della spirale logaritmica è che l'angolo tra la tangente alla curva e la linea ortogonale al raggio è costante. È costante anche l'angolo tra il raggio e la tangente alla curva.
+    Una delle proprietà della spirale logaritmica è che l'angolo tra la tangente alla curva e la linea ortogonale al raggio è costante. È costante anche l'angolo tra il raggio e la tangente alla curva.
+    Scultura contemporanea ispirata a una conchiglia di Nautilus (autore: Hans-Georg Wölbern; Wilhelmshaven, Germania).
+    Scultura contemporanea ispirata a una conchiglia di Nautilus (autore: Hans-Georg Wölbern; Wilhelmshaven, Germania).
+    Scultura ispirata a conchiglia di nautilo in un parco pubblico di Hong Kong.
+    Scultura ispirata a conchiglia di nautilo in un parco pubblico di Hong Kong.
+    "Nautilus", installazione di arte cinetica ispirata alle forme spiraleggianti della conchiglia di nautilo. Autore David C. Roy.
+    "Nautilus", installazione di arte cinetica ispirata alle forme spiraleggianti della conchiglia di nautilo. Autore David C. Roy.
+    Cupola della Facoltà di teologia islamica dell'Università di Marmara, Istanbul, ispirata alla conchiglia di nautilo.
+    Cupola della Facoltà di teologia islamica dell'Università di Marmara, Istanbul, ispirata alla conchiglia di nautilo.
+    Francobollo con coppa artistica di nautilo (Germania, 1944).
+    Francobollo con coppa artistica di nautilo (Germania, 1944).
+    Francobollo emesso in Kenya (1971) con Nautilus pompileus (sic).
+    Francobollo emesso in Kenya (1971) con Nautilus pompileus (sic).
+    Moneta da 1 centavo di Timor Est; sul verso reca l'immagine di un Nautilus.
+    Moneta da 1 centavo di Timor Est; sul verso reca l'immagine di un Nautilus.
+    Banconota da 5000 franchi (recto). Polinesia francese.
+    Banconota da 5000 franchi (recto). Polinesia francese.
+    Conchiglia di Nautilus smerigliata per mostrare lo strato interno madreperlaceo.
+    Conchiglia di Nautilus smerigliata per mostrare lo strato interno madreperlaceo.
+    Conchiglia di Nautilus sezionata per mostrarne l'architettura interna.
+    Conchiglia di Nautilus sezionata per mostrarne l'architettura interna.
+    Lastra di calcare a Orthoceras dal Siluriano del Marocco, preparata e lucidata selettivamente in modo da evidenziare i fossili di nautiloidi ortoconi presenti.
+    Lastra di calcare a Orthoceras dal Siluriano del Marocco, preparata e lucidata selettivamente in modo da evidenziare i fossili di nautiloidi ortoconi presenti.
+    Lastra pavimentale di calcare a Orthoceras dall'Ordoviciano della Svezia.[N 32]
+    Lastra pavimentale di calcare a Orthoceras dall'Ordoviciano della Svezia.[N 32]
+    USS Nautilus (1799), una nave da guerra (schooner) statunitense.
+    USS Nautilus (1799), una nave da guerra (schooner) statunitense.
+    Il Capitano Nemo sul sommergibile Nautilus. Illustrazione di Ventimila leghe sotto i mari, di Jules Verne.
+    Il Capitano Nemo sul sommergibile Nautilus. Illustrazione di Ventimila leghe sotto i mari, di Jules Verne.
+    Altra illustrazione del Nautilus di Ventimila leghe sotto i mari, di Jules Verne.
+    Altra illustrazione del Nautilus di Ventimila leghe sotto i mari, di Jules Verne.
+    Sommergibile statunitense Nautilus USS O-12 (SS-73). 1918-1924.
+    Sommergibile statunitense Nautilus USS O-12 (SS-73). 1918-1924.
+    Sommergibile statunitense USS Nautilus (SS-168). Anni 1940.
+    Sommergibile statunitense USS Nautilus (SS-168). Anni 1940.
+    Stemma della nave appoggio della regia marina olandese HNLMS Nautilus (A853).
+    Stemma della nave appoggio della regia marina olandese HNLMS Nautilus (A853).
+    Stemma nobiliare con le armi di Lord Saint Brides (UK).
+    Stemma nobiliare con le armi di Lord Saint Brides (UK).
+
+Stato di conservazione
+
+Nessuna delle specie attuali del genere Nautilus è considerata a rischio di estinzione e inserita nella lista rossa IUCN, e non sono ancora state prese misure per una pesca sostenibile.[198] Le specie del genere Allonautilus sono considerate rare, ma le conoscenze sulle popolazioni viventi sono ancora molto scarse; in generale, i dati disponibili in letteratura sono ancora insufficienti per avere una chiara visione della consistenza e della distribuzione delle popolazioni, anche se il gruppo è indubbiamente da considerare vulnerabile ad uno sfruttamento eccessivo per le sue caratteristiche intrinseche: numero ridotto di individui e bassa densità di popolazione, numero di maschi decisamente superiore a quello delle femmine (circa il 75% della popolazione)[105] e strategia di riproduzione di tipo k.[199]
+Note
+Esplicative
+
+    ^ Si tratta rispettivamente di una lamina dorsale anteriore (residuo della camera d'abitazione), della parte concamerata della conchiglia (l'organo di galleggiamento) e di un elemento conico posteriore ove s'inserisce il fragmocono.
+    ^ Esso ricalca sostanzialmente il Treatise on Invertebrate Paleontology curato da Moore (1964), p. K2, e successive edizioni.
+    ^ Sono riportati a titolo di esempio gli ordini più rappresentativi delle morfologie riportate, con l'avvertenza che si tratta di rappresentazioni schematiche e generalizzate. È rispettata la probabile posizione di vita degli organismi. Da Allasinaz (1982), pp. 246-248, modificato.
+    ^ Visibile anche il decorso dell'inserzione dei setti nella parete esterna, con andamento sinuoso in cui sono riconoscibili la sella ventrale e il lobo laterale. Spiegazione e fonti nel testo.
+    ^ Sono rappresentati per i due generi: un esemplare completo (con camera di abitazione) in veduta laterale, un fragmocono in veduta ventrale (visibile la posizione del foro sifonale sull'ultimo setto, centrale in Nautilus e sub-dorsale in Aturia). Nell'immagine proposta è rappresentato per i due generi Aturia e Nautilus il tracciamento completo della sutura (anche la parte dorsale, normalmente non visibile perché ricoperta dai giri interni). Sono indicati i lobi e le selle principali. La freccia (posta sulla parte ventrale della sutura) indica la direzione dell'apertura; sono rappresentate anche la linea dorsale mediana (linea tratteggiata più lunga) e le linee (tratteggiate brevi) che indicano l'intersezione della sutura con l'area ombelicale. Spiegazione e fonti nel testo.
+    ^ Sono visibili sezioni assiali di nautiloidi ortoceratidi: a) setti; b) sifone, in posizione centrale e privo di depositi); c) anelli di connessione, cilindrici; d) colletti settali, in questo caso molto corti e ortocoanitici; e) depositi endocamerali, gradatamente più sviluppati verso l'apice della conchiglia; f) riempimenti parziali di sedimento entro le camere (da non confondersi con depositi endocamerali). le camere dei fragmoconi sono riempite per la maggior parte da calcite spatica. Spiegazione e fonti nel testo.
+    ^ Il setto è trattato analiticamente come un guscio curvilineo concavo di tipo quasi-emisferico. In Westermann G.E.G. (1973).
+    ^ Osservazioni da parte di subacquei.
+    ^ I pesci balestra sono estremamente territoriali aggrediscono a vista qualunque organismo "invasore" (inclusi esseri umani); quindi in questo caso è difficile distinguere reali eventi di predazione e aggressioni per difesa del territorio. In Saunders e Landman (2009), p. 210.
+    ^ Questo può rendere conto almeno in parte del fatto che dal Paleozoico superiore in poi, le forme di maggior successo (e le uniche attualmente viventi) sono quelle planispirali involute e globose, lisce e prive di ornamenti.
+    ^ Il nautiloide in primo piano, con la rapida estroflessione del capo e dei tentacoli dall'apertura della conchiglia, è riuscito a sorprendere un trilobite phacopide prima che si potesse appallottolare. Quello in secondo piano sta per aggredire due brachiopodi orthidi. Sono rappresentati anche due (tetracoralli) solitari (non-coloniali) e un crinoide.
+    ^ Per questa ricostruzione dei nautiloidi paleozoici sono stati considerati diversi tipi di elementi: 1) elementi "sicuri" perché comuni a tutti i cefalopodi (occhi, tentacoli, iponomo), anche se non documentati dai fossili e quindi di forma, colore e numero non conosciuti; 2) elementi documentati dal materiale fossile (forma e ornamentazione della conchiglia, "becco" dei nautiloidi, colorazione della conchiglia con andamento a "zigzag"); 3) elementi non documentati nelle forme fossili, ma possibili (presenza del "cappuccio" corneo sul capo, con funzione protettiva).
+    ^ Per meglio comprendere l'influenza della strategia riproduttiva nella distribuzione di una specie cefalopode nectonica, si veda ad esempio la distribuzione di Spirula spirula, forma attuale dotata di conchiglia concamerata, con abitudini di vita in parte simili a Nautilus ma caratterizzato da uno stadio para-larvale con numero elevato di esemplari neanici per ogni generazione.
+    ^ Irregolare, non uniforme.
+    ^ Le forme giovanili avevano una conchiglia orto- o cirtoconica, longicona ed erano probabilmente predatori necto-bentonici. Le forme adulte sono caratterizzate da una conchiglia globosa con camere in posizione dorsale e parete sottile, corrispondente probabilmente ad uno stile di vita pelagico. Lo stadio cirtoconico giovanile era deciduo, cioè veniva perso gradualmente nella transizione ad adulto.
+    ^ Le forme giovanili, con apertura non costretta, avevano una conchiglia orto- o cirtoconica, brevicona ed erano probabilmente necto-bentonici. Le forme adulte sono caratterizzate da una conchiglia giroconica endogastrica con apertura costretta e seno iponomico molto differenziato e orientato posteriormente, ed erano probabilmente forme più mobili, nectoniche.
+    ^ L'ipotesi di Yochelson et al. parte dall'osservazione che nei cefalopodi basali paleozoici il sifuncolo generalmente parte dall'apice della conchiglia (anche se nei nautiloidi viventi il primo setto è imperforato, cosa che viene attribuita a un carattere derivato). In Yochelson et al. (1989), p. 294.
+    ^ Peraltro, vi sono segnalazioni di popolazioni viventi ancora non confermate in siti nell'Oceano Indiano occidentale, come Mauritus e Zanzibar. In Reyment (2008), pp. 3-4.
+    ^ In parte da Dzik (Dzik (1981), p. 176, fig. 8, modificato); per la ricostruzione dei Plectronocerida oltre a Teichert (Teichert (1988), p. 21, fig. 7) sono stati tenuti presenti i risultati degli studi di Shigeno (Shigeno et al. (2008)).
+    ^ Nell'ultima immagine in basso a destra è visibile a metà circa del fragmocono il decorso del sifone all'interno di una camera e i depositi endocamerali sviluppati verso l'apice, a "ombrello". La metà inferiore della camera è visibile come spazio vuoto, per l'assenza della parete della conchiglia e la mancanza di calcite di riempimento.
+    ^ Zuravlevia insperata DOGUZHAEVA, 1995. Più recentemente questo taxon è stato attribuito ad un nuovo ordine Mixosiphonata MUTVEI, 2017, sempre nell'ambito dei Nautiloidea.
+    ^ La tendenza del gruppo a sviluppare suture complesse in tempi successivi costituisce un caso di evoluzione iterativa
+    ^ Le suture complesse delle forme tardo cretaciche e terziarie sono comunque molto diverse da quelle delle forme triassiche, ed entrambe derivano da forme a sutura semplice, costituendo casi di evoluzione convergente.
+    ^ Superficie al di sotto della quale si realizzano condizioni di pressione e temperatura per le quali l'aragonite (fase metastabile del carbonato di calcio) passa in soluzione nelle acque marine e non si sedimenta. La profondità della ACD dipende dalla solubilità del carbonato di calcio (CaCO3), che è determinata dalle condizioni di pressione e temperatura e dalla concentrazione di anidride carbonica (CO2). La solubilità della CO2 aumenta con l'aumentare della pressione e il diminuire della temperatura. Il carbonato di calcio negli oceani attuali passa in soluzione tra circa 3500-4500 m nell'Oceano Pacifico e nell'Oceano Indiano e 5000 m nell'Oceano Atlantico, e la ACD si trova tra il limite superiore di questo intervallo di profondità e circa 300 m al di sopra. È possibile però che la profondità di questa superficie fosse diversa nelle ere geologiche passate. In Woosley (2016), pp. 1-2.
+    ^ Navigante, nocchiero
+    ^ Il termine κτείς usato nel testo originale vuol dire primariamente pettine nel senso di utensile, ma è applicato anche per definire conchiglie con ornamentazione a coste in rilievo, di tipo pettinide.[1]. La descrizione si adatta alla conchiglia dell'argonauta ma non a quella del nautilo, che non è costata ma liscia
+    ^ Uno dei termini vernacolari riportati da Aristotele, con cui era conosciuto l'animale, è "uovo di polpo".
+    ^ Con il termine qui tradotto come "sifone" non si intende evidentemente il sifuncolo, interno alla conchiglia del nautilo in senso proprio, bensì l'iponomo che espelle l'acqua per la propulsione (e non in realtà per il galleggiamento). Lo svuotamento delle camere nel nautilo avviene attraverso il sifuncolo ed è un meccanismo osmotico, principio sconosciuto all'epoca.
+    ^ Argonauta è un ottopode (come i polpi): ha otto tentacoli; due dei tentacoli della femmina, che secernono l'ooteca e la modellano, sono differenziati e recano sottili membrane espanse.
+    ^ Tuttora in Inglese si parla di pearly nautilus (nautilo "perlaceo") per i nautiloidi in senso stretto e di paper nautilus (nautilo "cartaceo") per argonauta.
+    ^ Il soggetto del dipinto è incerto: viene identificato anche come "Sofonisba riceve la coppa avvelenata" o "Giuditta al banchetto di Oloferne".
+    ^ In realtà dei due esemplari visibili quello a sinistra nell'immagine appartiene agli Endocerida, come visibile dal sifuncolo molto ampio e dai depositi endosifonali conici.
+
+Bibliografiche
+
+Clarkson (1998), pp. 233-234.
+Clarkson (1998), p. 233.
+Allasinaz (1982), pp. 242-243.
+Clarkson (1998), p. 230.
+Allasinaz (1982), p. 252.
+^ Haas (1950).
+^ Moore (1964).
+^ Clarkson (1998), pp. 235-238.
+^ Clarkson (1998), pp. 238-241.
+^ Clarkson (1998), pp. 251-252.
+^ Moore (1964), p. K3.
+^ Pohle et al. (2022), p. 3.
+^ Jereb e Roper (2005), p. 50, fig. 96, con bibliografia.
+^ Ward e Saunders (1997), p. 1054; pp. 1058-1060.
+^ Ward e Saunders (1997), pp. 1062-1064; con bibliografia.
+^ Jereb e Roper (2005), p. 50, fig. 95, modificato.
+^ Clarkson (1998), pp. 230-231.
+^ Saunders e Landman (2009), p. 206.
+^ Saunders e Landman (2009), pp. 117, 221, 223-229.
+^ Saunders e Landman (2009), pp. 226-227.
+Jereb e Roper (2005), p. 51.
+Allasinaz (1982), p. 242.
+^ Clarkson (1998), p. 237.
+Turek (1978).
+^ Dzik (1981), pp. 169-170.
+^ Saunders e Landman (2009), pp. 250-256.
+Clarkson (1998), p. 232.
+^ Saunders e Landman (2009), p. 356-357.
+^ Saunders e Landman (2009), pp. 354-355.
+^ Jereb e Roper (2005), pp. 50-51.
+^ Allasinaz (1982), pp. 242-244.
+Allasinaz (1982), p. 243.
+^ Allasinaz (1982), pp. 244-245.
+Allasinaz (1982), p. 244.
+^ Allasinaz (1982), pp. 246-247.
+^ Peterman et al. (2019), p. 25.
+^ Peterman et al. (2019), p. 12, fig. 2.
+^ Chamberlain (1991), p. 85, fig. 6.
+^ Crick (1988), pp. 33-38.
+^ Allasinaz (1982), pp. 247-249.
+^ Allasinaz (1982), p. 250.
+Allasinaz (1982), p. 247.
+^ Lukeneder e Harzhauser (2002), p. 463.
+Allasinaz (1982), p. 248.
+^ Allasinaz (1982), p. 249; fig. 210.
+^ Peterman et al. (2019), p. 26.
+^ Allasinaz (1982), p. 249; fig. 210, modificato
+^ Allasinaz (1982), p. 251.
+^ Allasinaz (1982), p. 253.
+^ Jereb e Roper (2005), pp. 51,53.
+^ Jereb e Roper (2005), p. 53; osservazioni.
+^ Manda e Turek (2015), p. 76.
+Turek e Manda (2011), in particolare fig. 5, 6, 8.
+Manda e Turek (2015), in particolare fig. 2.
+Jereb e Roper (2005), pp. 50-55.
+Jereb e Roper (2005), p. 50.
+^ Ward (1979).
+^ Ward e Martin (1980), pp. 260-261.
+^ Westermann G.E.G. (1973).
+^ Chamberlain e Chamberlain (1986).
+^ Hewitt et al. (1989).
+^ Lemanis et al. (2016).
+^ Lemanis et al. (2016), p. 7.
+^ Saunders e Landman (2009), p. 519.
+^ Saunders e Landman (2009), p. 152.
+^ Saunders e Landman (2009), p. 154.
+^ Saunders e Landman (2009), p. 155.
+^ Saunders e Landman (2009), pp. 558-559.
+^ Saunders e Landman (2009), p. 161, fig. 11.
+Saunders e Landman (2009), p. 210.
+^ Saunders e Landman (2009), p. 151.
+^ Saunders e Landman (2009), pp. 150-152.
+^ Saunders e Landman (2009), p. 319.
+^ Saunders e Landman (2009), Introduction, lii; p. 152.
+^ Saunders e Landman (2009), pp. 151-152.
+^ Saunders e Landman (2009), Introduction, 4.3, xlvii-xlviii.
+^ Saunders e Landman (2009), pp. 208-212.
+^ Saunders e Landman (2009), pp. 201-206.
+^ Saunders e Landman (2009), pp. 202-203,211.
+^ Saunders e Landman (2009), p. 202.
+^ Saunders e Landman (2009), p. 220.
+^ Chamberlain (1991), p. 63-65.
+^ Peterman et al. (2019).
+^ Crick (1988), pp. 21-22.
+^ Crick (1988), pp. 23-24.
+^ Peterman et al. (2019), pp. 25-26.
+^ Crick (1988), pp. 29-30.
+Brett e Walker (2002), p. 99.
+^ A titolo di esempio:Speyer (1988), pp. 135-136, fig. 11-12.
+^ Fortey (2014), p. 252.
+^ Cherns et al. (2006).
+^ Turek (1978), p. 128; fig. 1-3 e p. 132; fig. 8.
+^ Zakharov (1983), pp. 74-76.
+^ Elliott e Brew (1988).
+^ Alexander (1986), p. 273.
+^ Klug (2001), p. 61.
+^ Klug (2001), pp. 53-54.
+^ Heeger et al. (1992).
+Heeger et al. (1992), pp. 294-296.
+^ Manda (2008), p. 48.
+^ Manda (2008), pp. 46-47: fig. 6.
+^ Chamberlain (1991), p. 87; fig. 7; p. 90.
+Chamberlain (1991), p. 89; fig. 9; pp. 90-91.
+^ Kauffman (2004), pp. 97-100.
+Saunders e Landman (2009), p. 162.
+Dunstan et al. (2011), p. 3.
+^ Saunders e Landman (2009), p. 357.
+^ Saunders e Landman (2009), pp. 358-359.
+^ Saunders e Landman (2009), pp. 576-577.
+^ Landman et al.(2001), p. 334.
+^ Dunstan et al. (2011), p. 1; p. 8.
+^ Dunstan et al. (2011), p. 7.
+Crick (1990), p. 147.
+^ Soja et al. (1996), p. 422.
+^ Gnoli et al. (1979), p. 420.
+^ Manda e Turek (2018), p. 412.
+^ Crick (1988), p. 24; pp. 29-30; fig. 17.
+^ Manda (2008), p. 46; fig. 5.
+^ Manda e Turek (2018),  modificato.
+^ Crick (1988), p. 24; pp. 29-30; fig. 17, modificato.
+^ Manda (2008), p. 46; fig. 5, modificato.
+Westermann et al. (2004).
+^ Kahn e Pompea (1978), p. 607.
+^ Kahn e Pompea (1978), pp. 609-611; Tabella 1.
+^ Dzik (1981), p. 166.
+^ Dzik (1981), pp. 166-167; fig. 4.
+^ Clarkson (1998), p. 234; fig. 8.22, modificato.
+^ Yochelson et al. (1989), p. 277.
+^ Kröger et al.(2011), p. 4.
+^ Shigeno et al. (2008), p. 15.
+^ Yochelson et al. (1989), p. 287.
+^ Yochelson et al. (1989), pp. 283-287.
+^ Yochelson et al. (1989), pp. 293-294.
+^ Yochelson et al. (1989), p. 293.
+^ Yochelson et al. (1989), p. 297-298.
+^ Yochelson et al. (1989), p. 282; fig. 3.
+^ Teichert (1988), pp. 21-22.
+^ Yochelson et al. (1989), p. 298.
+^ Teichert (1988), p. 22.
+^ Yochelson et al. (1989), pp. 281-282.
+^ Kröger et al.(2011), p. 3-4; fig. 3.
+^ Teichert (1988), p. 281.
+^ Teichert (1988), p. 25.
+Gnoli (2003), p. 2.
+^ Taylor e Wilson (2003), p. 28.
+^ Taylor e Wilson (2003), p. 4; p. 21.
+^ Reyment (2008), p. 10 e bibliografia.
+^ Reyment (2008), p. 9.
+^ Reyment (2008), pp. 2-3; fig. 1.
+^ Teichert (1988), p. 29.
+Teichert (1988), pp. 26-40.
+^ Barskov et al. (2008), p. 1174.
+^ Teichert (1988), p. 39.
+^ Brett e Walker (2002), pp. 105-106; fig. 9.
+^ Gnoli (2003), pp. 2-3; fig. 4.
+^ Teichert (1988), pp. 41-42.
+^ Teichert (1988), pp. 38-41.
+^ Teichert (1988), p. 40.
+^ Teichert (1988), pp. 47-49.
+^ Teichert (1988), p. 53.
+^ Kummel (1953), p. 67, fig. 33; p. 68, fig. 34.
+^ Kummel (1953), pp. 75-79, fig. 41.
+^ Teichert (1988), p. 43.
+^ Doguzhaeva (1995).
+^ Saunders e Landman (2009), pp. 26-28, fig. 1.
+^ Ward e Saunders (1997).
+^ Desio (1978), pp. 91-93.
+^ Desio (1978), pp. 77-78.
+^ Posenato e Prinot (2004).
+^ Mapes et al. (2007), p. 1118.
+^ A titolo di esempio (Calcare del Latemar): Bernardi et al. (2018), p. 28.
+^ A titolo di esempio (Formazione di Besano, affiorante nelle Alpi Meridionali tra Varesotto e Luganese): Pieroni (2022).
+^ A titolo di esempio per le Prealpi lombarde: Cantaluppi e Montanari (1971), pp. 56-57.
+^ Lukeneder e Aspmair (2006), pp. 58; 64.
+^ Wiedemann e Dieni (1968), pp. 9-12; 149-153.
+^ Gelati et al. (1988), p. 312.
+^ Desio (1978), p. 560.
+^ Desio (1978), p. 557.
+^ Desio (1978), p. 614.
+^ Saunders e Landman (2009), pp. 563-573, tab.I.
+^ Saunders e Landman (2009), pp. 574-575.
+^ Saunders e Landman (2009), p. 576.
+^ Saunders e Landman (2009), pp. 573-574, tab.II.
+^ Saunders e Landman (2009), p. 574.
+^ Saunders e Landman (2009), p. 575.
+^ Saunders e Landman (2009), p. 569.
+^ Saunders e Landman (2009), p. 577.
+^ Saunders e Landman (2009), p. 593
+^ Saunders e Landman (2009), p. 566
+^ Thompson (1910), Book IV, I, 20-25, note 1-5
+^ Saunders e Landman (2009), p. 3
+^ Saunders e Landman (2009), pp. 3-4.
+
+    Saunders e Landman (2009), p. 4.
+    ^ Batiato (2012), pp.FP41-FP42.
+    ^ Saunders e Landman (2009), pp. 4-5, fig. 2.
+    ^ Saunders e Landman (2009), pp. 6-8, fig. 4.
+    ^ Stouge (2004), pp. 105-109.
+    ^ Dunstan et al. (2011), p. 2.
+    ^ Dunstan et al. (2011), p. 2; p. 8.
+
+Bibliografia
+
+    Andrea Allasinaz, Invertebrati - Dispense di paleontologia sistematica, Torino, CLU, 1982, SBN IT\ICCU\TO0\1203490.
+    (EN) Richard R. Alexander, Resistance to and Repair of Shell Breakage Induced by Durophages in Late Ordovician Brachiopods, in Journal of Paleontology, vol. 60, n. 2, Cambridge (UK), Taylor & Francis, 1986, pp. 93-118, DOI:10.1017/S0022336000021806.
+    (EN) I.S. Barskov, M.S. Boiko, V.A. Konovalova, T.B. Leonova e S.V. Nikolaeva, Cephalopods in the Marine Ecosystems of the Paleozoic, in Paleontological Journal, vol. 42, n. 11, Mosca, Pleiades Publishing, Ltd, 2008, pp. 1167-1284, DOI:10.1134/S0031030108110014.
+    Armando Batiato, Contributo all’identificazione degli organismi acquatici riportati nel libro IX del Naturalis historia di Plinio il Vecchio (PDF), in Bollettino Accademia Gioenia Sci. Nat., vol. 45, n. 374, Catania, 2012, pp. 10-60.
+    (EN) Massimo Bernardi, Riccardo Tomasoni, Fabio Massimo Petti, Evelyn Kustatscher, Hendrik Nowak, Herwig Prinoth, Guido Roghi, Nereo Preto e Piero Gianolla, Permian–Triassic terrestrial ecosystems of the Dolomites (Southern Alps): Field trip on the occasion of the Paleodays 2018 (PDF), in Geo. Alp., vol. 15, Innsbruck; Bolzano, 2018.
+    (EN) Carlton E. Brett e Sally E. Walker, Predators and predation in Paleozoic marine environments, in Paleontological Society Papers, vol. 8, Cambridge (UK), Cambridge University Press, 2002, pp. 93-118, DOI:10.1017/S1089332600001078.
+    Giammario Cantaluppi e Luca Montanari, Quadro biostratigrafico conclusivo del Carixiano e suo passaggio al Domeriano nelle Prealpi lombarde occidentali (PDF), in Bollettino della Società Paleontologica Italiana, vol. 10, n. 2, Modena, 1971, pp. 43-74.
+    (EN) John A. Chamberlain e Rebecca B. Chamberlain, Is cephalopod septal strength index an index of cephalopod septal strength?, in Alcheringa: An Australasian Journal of Palaeontology, vol. 10, n. 2, Abingdon (UK), Taylor & Francis, 1986, pp. 85-97, DOI:10.1080/03115518608619162.
+    (EN) John A. Chamberlain, Cephalopod locomotor design and evolution: the constraints of jet propulsion (PDF), in Rayner J.M.V. e Wootton R.J. (a cura di), Biomechanics and evolution, Cambridge (UK), Cambridge University Press, 1991.
+    (EN) Lesley Cherns, James R. Wheeley e Lars Karis, Tunneling trilobites: Habitual infaunalism in an Ordovician carbonate seafloor., in Geology, vol. 34, n. 8, Boulder, CO (USA), 2006, pp. 657-660, DOI:10.1130/G22560.1.
+    (EN) Euan Neilson Kerr Clarkson, Invertebrate Palaeontology and Evolution. Fourth Edition, Oxford (UK), Backwell Science Ltd – Blackwell Publishing, 1998, ISBN 978-0-632-05238-7.
+    (EN) Rex E.Crick, Buoyancy regulation and macroevolution in nautiloid cephalopods. (PDF), in Senckenbergiana lethaea, vol. 69, n. 1/2, Frankfurt am Main, 1988, pp. 13-42.
+    (EN) Rex E. Crick, Cambro-Devonian biogeography of nautiloid cephalopods., in Geological Society, London, Memoirs, vol. 12, London (UK), 1990, pp. 147-161, DOI:10.1144/gsl.mem.1990.012.01.13.
+    Ardito Desio, Geologia dell'Italia. Ristampa corretta, Torino, Unione Tipografico-Editrice Torinese, 1978, ISBN 88-02-03407-9.
+    (EN) Larisa A. Doguzhaeva, An Early Cretaceous orthocerid cephalopod from north-western Caucasus (PDF), in Palaeontology, vol. 37, n. 4, Abingdon (UK), Taylor & Francis, 1995, pp. 889–899.
+    (EN) Andrew J. Dunstan, Peter D. Ward e N. Justin Marshall, Nautilus pompilius Life History and Demographics at the Osprey Reef Seamount, Coral Sea, Australia, in PLoS ONE, vol. 6, 2:e16312, San Francisco, California (USA), PLOS, 2011, DOI:10.1371/journal.pone.0016312, PMID 21347356.
+    (EN) Jerzy Dzik, Origin of the Cephalopoda, in Acta Palaeontologica Polonica, vol. 26, n. 2, Varsavia (Polonia), Polska Akademia Nauk, 1981, pp. 161-191.
+    (EN) David K. Elliott e Douglas C. Brew, Cephalopod Predation on a Desmoinesian Brachiopod from the Naco Formation, Central Arizona, in Journal of Paleontology, vol. 62, n. 1, Cambridge (UK), Taylor & Francis, 1988, pp. 145-147.
+    (EN) Richard Fortey, The palaeoecology of trilobites, in Journal of Zoology, vol. 292, London (UK), Wiley-Blackwell, 2014, DOI:10.1111/jzo.12108.
+    Romano Gelati, Aldo Napolitano e Antonio Valdisturlo, La Gonfolite Lombarda: stratigrafia e significato nell'evoluzione del margine sudalpino, in Riv. Ital. Paleontol. Strat., 94(2), Milano, 1988. URL consultato il 17 marzo 2024.
+    (EN) Maurizio Gnoli, Gian Clemente Parea, Franco Russo e Enrico Serpagli, Paleoecological remarks on the "Orthoceras Limestone" of southwestern Sardinia (Middle-Upper Silurian) (PDF), in Memorie della Società Geologica Italiana, vol. 20, Roma, 1979, pp. 405-423.
+    (EN) Maurizio Gnoli, Northern gondwanan siluro-devonian palaeogeography assessed by Cephalopods. (PDF), in Palaeontologia Electronica, vol. 5, n. 2, 2003.
+    (EN) Otto Haas, Ammonites: Tetrabranchiata or Dibranchiata?, in Journal of Paleontology, vol. 24, n. 1, Cambridge (UK), Taylor & Francis, 1950, pp. 109-110.
+    (EN) Thomas Heeger, Uwe Piatkowski e Heino Moller, Predation on jellyfish by the cephalopod Argonauta argo, in Marine Ecology Progress Series, vol. 88, Oldendorf (Luhe), 1992, pp. 293-296, DOI:10.3354/meps088293.
+    (EN) Robert A. Hewitt; Mohammed A. Dokainish; Mohammed El Aghoury e Gerd E.G. Westermann, Bathymetric limits of a Carboniferous orthoconic nautiloid deduced by finite element analysis, in Palaios, vol. 4, n. 2, Claremore (OK), USA, 1989, pp. 157-167, DOI:10.2307/3514603.
+    (EN) P. Jereb, Chambered Nautiluses and Sepioids (Nautilidae, Sepiidae, Sepiolidae, Sepiadariidae, Idiosepiidae and Spirulidae)., in P. Jereb e Clyde F.E. Roper (a cura di), Species Catalogue for Fishery Purposes. Cephalopods of the World. An Annotated and Illustrated Catalogue of Cephalopod Species Known to Date, Roma, FAO, 2005, p. 262, ISBN 92-5-105383-9, ISSN 1020-8682 (WC · ACNP).
+    (EN) Peter G.K. Kahn e Stephen M. Pompea, Nautiloid growth rhythms and dynamical evolution of the Earth-Moon system., in Nature, vol. 275, London (UK), 1978, pp. 606-611, DOI:10.1038/275606a0.
+    (EN) Erle G. Kauffman, Mosasaur Predation on Upper Cretaceous Nautiloids and Ammonites from the United States Pacific Coast, in Palaios, vol. 19, n. 1, Claremore (OK), USA, 2004, pp. 96-100, DOI:10.1669/0883-1351(2004)019<0096:MPOUCN>2.0.CO;2.
+    (EN) Christian Klug, Functional morphology and taphonomy of nautiloid beaks from the Middle Triassic of southern Germany, in Acta Palaeontologica Polonica, vol. 46, n. 1, Warsaw (Poland), 2001, pp. 43-68.
+    (EN) Björn Kröger, Jakob Vinther e Dirk Fuchs, Cephalopod origin and evolution: A congruent picture emerging from fossils, development and molecules. Extant cephalopods are younger than previously realised and were under major selection to become agile, shell-less predators, in Bioessays, Hoboken, New Jersey (USA), 2011, pp. 1-12, DOI:10.1002/bies.201100001.
+    (EN) Bernhard Kummel, American Triassic Coiled Nautiloids - A study of the classification and evolution of late Paleozoic and early Mesozoic cephalopods, and description of new species (PDF), in Geological Survey Professional Paper, vol. 250, Whashington D.C., United States Department of the Interior - Geological Survey, 1953, pp. 104, 19 tav..
+    (EN) Neil H. Landman, Douglas S. Jones e Richard Arnold Davis, Hatching Depth of Nautilus pompilius in Fiji, in Veliger, vol. 44, n. 4, 2001, pp. 333-339.
+    (EN) U. Lehmann, On the dietary habits and locomotion of fossil cephalopods, in J. Wiedmann e J. Kullmann (a cura di), Cephalopods Present and Past. 2nd International Cephalopod Symposium, Stuttgart, Germany, E. Schweizerbart’sche Verlagsbuchhandlung, 1988, pp. 633-640, ISBN 3-510-65133-2.
+    (EN) Robert Lemanis, Stefan Zachow e René Hoffmann, Comparative cephalopod shell strength and the role of septum morphology on stress distribution, in PeerJ, vol. 4, e2434, Corte Madera; London, 2016, DOI:10.7717/peerj.2434.
+    (EN) Alexander Lukeneder e C. Aspmair, Stratigraphic implications of a new lower Cretaceous ammonoid fauna from the Puez area (Valanginian - Aptian, Dolomites, Southern Alps, Italy), in Cretaceous Research, vol. 3, Amsterdam, 2006, pp. 55-83.
+    (EN) Alexander Lukeneder e Mathias Harzhauser, Shell Accumulations of the Nautilidae Aturia (Aturia) aturi (BAST.) in the Lower Miocene Paratethys (Lower Austria) (PDF), in Abhandlungen der geologischen der Bundesanstalt, vol. 57, Wien (Austria), 2002, pp. 459-466, ISSN 0016-7800 (WC · ACNP).
+    (EN) Štĕpán Manda, Palaeoecology and paleogeographic relations of the Silurian Phragmoceratids (Nautiloidea) of the Prague Basin (Bohemia) (PDF), in Bullettin of Geosciences, vol. 83, n. 1, Pilsen (Rep. Ceca), 2008, pp. 39-62, DOI:10.3140/bull.geosci.2008.01.039. URL consultato il 24 febbraio 2024 (archiviato dall'url originale il 26 settembre 2015).
+    (EN) Štĕpán Manda e Vojtěch Turek, Colour patterns on Silurian orthocerid and pseudorthocerid conchs from Gotland - palaeoecological implications (PDF), in Estonian Journal of Earth Sciences, vol. 64, n. 1, Tallinn (Estonia), 2015, pp. 74-79, DOI:10.3176/earth.2015.13.
+    (EN) Štĕpán Manda e Vojtěch Turek, Silurian tarphycerid Discoceras (Cephalopoda, Nautiloidea): systematics, embryonic development and paleoecology, in Journal of Paleontology, vol. 92, n. 3, Cambridge (UK), 2018, pp. 412-431, DOI:10.1017/jpa.2017.122.
+    (EN) Royal H. Mapes, Shuji Niko, Jiri Fryda e Alex Nützel, A newly hatched coiled nautiloid from the Permian of Italy, in Journal of Paleontology, vol. 81, n. 5, Cambridge (UK), 2007, pp. 1118-1121.
+    (EN) Raymond C. Moore, Part K - Mollusca 3, in Treatise on Invertebrate Paleontology, Geological Society of America, Lawrence, 1964, pp. K1-K519.
+    (EN) David J. Peterman, Cristopher C. Barton e Margareth M. Yacobucci, The hydrostatics of Paleozoic ectocochleate cephalopods (Nautiloidea and Endoceratoidea) with implications for modes of life and early colonization of the pelagic zone, in Palaeontologia Electronica 22.2.24A 1-29., 2019.
+    (EN) Vittorio Pieroni, Middle Triassic Nautilida from the Besano Formation of Monte San Giorgio, Switzerland, in Swiss Journal of Palaeontology, vol. 141, n. 21, Berlin/Heidelberg, Springer, 2022.
+    (EN) Alexander Pohle, Biörn Kröger, Rachel C.M. Warnock, Andy H. King, David H. Evans, Martina Aubrechtová, Marcela Cichowolski, Fang Xiang e Christian Klug, Early cephalopod evolution clarified through Bayesian phylogenetic inference, in BMC Biology, London (UK), 2022.
+    Renato Posenato e Herwig Prinot, Orizzonti a Nautiloidi e brachiopodi della Formazione a Bellerophon (Permiano superiore) in Val Gardena (Dolomiti) (PDF), in Geo.Alp., vol. 1, Innsbruck; Bolzano, pp. 71-85.
+    (EN) Richard A. Reyment, A Review of the Post-mortem Dispersal of Cephalopod Shells (PDF), in Palaeontologia Electronica, vol. 11, n. 3, 2008, pp. 1-13, DOI:10.1017/S0022336000036039.
+    (EN) W. Bruce Saunders e Neil H. Landman, Nautilus: The Biology and Paleobiology of a Living Fossil, Reprint with additions, in Topics in Geobiology, vol. 6, Berlin/Heidelberg, Springer, 2009, pp. 1-17, DOI:10.1007/978-90-481-3299-7, ISBN 978-90-481-3298-0.
+    (EN) Shuichi Shigeno, Takenori Sasaki, Takeya Moritaki, Takashi Kasugai, Michael Vecchione e Kiyokazu Agata, Evolution of the cephalopod head complex by assembly of multiple molluscan body parts: Evidence from Nautilus embryonic development, in Journal of Morphology, vol. 269, n. 1, Hoboken, New Jersey (USA), 2008, pp. 1-17, DOI:10.1002/jmor.10564, PMID 17654542.
+    (EN) Constance M. Soja, Katrina E. Gobetz, Jennifer Thibeau, Erika Zavala e Brian White, Taphonomy and Paleobiological Implications of Middle Devonian (Eifelian) Nautiloid Concentrates, Alaska., in Palaios, vol. 11, n. 5, Claremore (OK), USA, 1996, pp. 422-436, DOI:10.2307/3515210.
+    (EN) Stephen E. Speyer, Biostratinomy and functional morphology of enrollment in two Middle Devonian trilobites, in Lethaia, vol. 21, Oslo (Norway), 1988, pp. 121-138, DOI:10.1111/j.1502-3931.1988.tb02063.x.
+    (EN) Svend Stouge, Ordovician siliciclastics and carbonates of Öland, Sweden - Field guide, in Erlanger geologische Abhandlungen, vol. 5, Erlangen-Nürnberg (Germany), 2004, pp. 91-111.
+    (EN) Paul D. Taylor e Mark A. Wilson, Palaeoecology and evolution of marine hard substrate communities, in Earth-Science reviews, vol. 62, Amsterdam (Olanda), 2003, pp. 1-103, DOI:10.1016/S0012-8252(02)00131-9.
+    (EN) Curt Teichert, Main Features of Cephalopod Evolution, in M.R. Clarke e E.R.Trueman (a cura di), The Mollusca. Vol.12, Paleontology and Neontology of Cephalopods., New York/San Diego (USA), Academic Press, 1988.
+    (EN) Wentworth Thompson D'Arcy, The Works of Aristotle translated into English, a cura di J.A. Smith e W.D. Ross, vol. IV - Historia Animalium, Oxford, The Clarendon Press, 1910.
+    (EN) Vojtěch Turek, Biological and stratigraphical significance of the Silurian nautiloid Aptychopsis, in Lethaia, vol. 11, n. 2, Oslo (Norway), 1978, pp. 127-138, DOI:10.1111/j.1502-3931.1978.tb01297.x.
+    (EN) Vojtěch Turek e Štĕpán Manda, Colour pattern polymorphism in Silurian nautiloid Phragmoceras Broderip, 1839, in Bullettin of Geosciences, vol. 86, n. 1, Pilsen (Rep. Ceca), 2011, pp. 91-105, DOI:10.3140/bull.geosci.1240.
+    (EN) Peter D. Ward, Cameral liquid in Nautilus and ammonites, in Paleobiology, vol. 5, n. 1, Cambridge (UK), Cambridge University Press, 1979, pp. 40-49, DOI:10.1017/S009483730000628X.
+    (EN) Peter D. Ward e Martin A., Depth distribution of nautilus pompilius in Fiji and Nautilus macromphalus in New Caledonia, in Veliger, vol. 22, 1980, pp. 259-264.
+    (EN) Peter D. Ward e W. Bruce Saunders, Allonautilus: a new genus of living Nautiloid cephalopod and its bearing on phylogeny of the Nautilida, in Journal of Paleontology, vol. 71, n. 6, Cambridge (UK), Taylor & Francis, 1997, pp. 1054–1064, DOI:10.1017/S0022336000036039.
+    (EN) Bettina Westermann, Ingrid Beck-Schildwächter, Knut Beuerlein, Erhard F. Kaleta e Rudolf Schipp, Shell growth and chamber formation of aquarium-reared Nautilus pompilius (Mollusca, Cephalopoda) by X-ray analysis, in Journal of Experimental Zoology Part A: Comparative Experimental Biology, 301A, n. 12, Hoboken, New Jersey (USA), Wiley-Blackwell, 2004, pp. 930-937, DOI:10.1002/jez.a.116, PMID 15562500.
+    (EN) Gerd E.G. Westermann, Strength of concave septa and depth limits of fossil cephalopods, in Lethaia, vol. 6, n. 4, Oslo (Norway), 1973, pp. 383-403, DOI:10.1111/j.1502-3931.1973.tb01205.x.
+    (EN) Ellis L. Yochelson, Rousseau H. Flower e Gerald F. Webers, The bearing of the new Late Cambrian monoplacophoran genus Knightoconus upon the origin of the Cephalopoda, in Geological Society, London, Special Publications, vol. 47, 1989, pp. 29-42, DOI:10.1144/gsl.sp.1989.047.01.04.
+    (EN) Jost Wiedemann e Iginio Dieni, Die Kreide Sardiniens und ihre cephalopoden (PDF), in Palaeontographia Italica, LXIV, Pisa, 1968.
+    (EN) Ryan J. Woosley, Carbonate Compensation Depth, in Encyclopedia of Earth Sciences Series - Encyclopedia of Geochemistry, Cham/Baar, Springer International Publishing Switzerland, 2016, DOI:10.1007/978-3-319-39193-9_85-1, ISBN 978-3-319-39193-9.
+    (EN) Yuri D. Zakharov e Tamaz A. Lominadze, New data on the jaw apparatus of fossil cephalopods, in Lethaia, vol. 16, n. 1, Oslo (Norway), 1983, pp. 67-78, DOI:10.1111/j.1502-3931.1983.tb02000.x.
+
+Voci correlate
+
+    Allonautilus
+    Ammonoidea
+    Aturia
+    Cameroceras
+    Cephalopoda
+    Michelinoceras
+    Nautilus (mollusco)
+    Orthoceras (paleontologia)
+
+Altri progetti
+
+    Collabora a Wikimedia Commons Wikimedia Commons contiene immagini o altri file su Nautiloidea
+    Collabora a Wikispecies Wikispecies contiene informazioni su Nautiloidea
+
+Collegamenti esterni
+
+    Giuseppe Checchia Rispoli, Nautiloidei, in Enciclopedia Italiana, Istituto dell'Enciclopedia Italiana, 1934. Modifica su Wikidata
+    Nautiloidèi, su Vocabolario Treccani, Istituto dell'Enciclopedia Italiana. Modifica su Wikidata
+    (EN) nautiloid, su Enciclopedia Britannica, Encyclopædia Britannica, Inc. Modifica su Wikidata
+    (EN) Nautiloidea, su palaeos.com. URL consultato il 13 febbraio 2024 (archiviato dall'url originale il 6 ottobre 2008).
+
+Wikimedaglia
+Questa è una voce in vetrina, identificata come una delle migliori voci prodotte dalla comunità.
+È stata riconosciuta come tale il giorno 14 gennaio 2009 — vai alla segnalazione.
+Naturalmente sono ben accetti suggerimenti e modifiche che migliorino ulteriormente il lavoro svolto.
+
+Segnalazioni  ·  Criteri di ammissione  ·  Voci in vetrina in altre lingue  ·  Voci in vetrina in altre lingue senza equivalente su it.wiki
+  Portale Molluschi
+  Portale Paleontologia
+  Portale Scienze della Terra
+Categorie:
+
+    NautiloideaMolluschi estintiTaxa classificati da Louis Agassiz
+
+[altre]
+Menu di navigazione
+
+    Accesso non effettuato
+    discussioni
+    contributi
+    registrati
+    entra
+
+    Voce
+    Discussione
+
+    Leggi
+    Modifica
+    Modifica wikitesto
+    Cronologia
+
+Ricerca
+
+    Pagina principale
+    Ultime modifiche
+    Una voce a caso
+    Nelle vicinanze
+    Vetrina
+    Aiuto
+    Sportello informazioni
+
+Comunità
+
+    Portale Comunità
+    Bar
+    Il Wikipediano
+    Fai una donazione
+    Contatti
+
+Strumenti
+
+    Puntano qui
+    Modifiche correlate
+    Carica su Commons
+    Pagine speciali
+    Link permanente
+    Informazioni pagina
+    Cita questa voce
+    Ottieni URL breve
+    Scarica codice QR
+    Elemento Wikidata
+
+Stampa/esporta
+
+    Crea un libro
+    Scarica come PDF
+    Versione stampabile
+
+In altri progetti
+
+    Wikimedia Commons
+    Wikispecies
+
+In altre lingue
+
+    العربية
+    Català
+    Deutsch
+    English
+    Español
+    Français
+    Русский
+    Slovenščina
+    中文
+
+Modifica collegamenti
+
+    Questa pagina è stata modificata per l'ultima volta il 23 giu 2024 alle 01:44.
+    Il testo è disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le condizioni d'uso per i dettagli.
+
+    Informativa sulla privacy
+    Informazioni su Wikipedia
+    Avvertenze
+    Codice di condotta
+    Sviluppatori
+    Statistiche
+    Dichiarazione sui cookie
+    Versione mobile
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+
